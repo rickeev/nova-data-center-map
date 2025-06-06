@@ -1,0 +1,4561 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "43830 Devin Shafron Drive (IAD24)",
+        "company": "Digital Realty",
+        "street": "43830 Devin Shafron Drive",
+        "city": "Ashburn",
+        "zip": "20147",
+        "address": "43830 Devin Shafron Dr, Ashburn, VA 20147",
+        "geocoded_address": "Digital Realty Northern Virginia IAD24, 43830, Devin Shafron Drive, Loudoun Station, Ashburn, Loudoun County, Virginia, 20147, United States"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.4843499,
+          39.0043335
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Centersquare Ashburn Campus",
+        "company": "Centersquare",
+        "street": "21561-21571 Beaumeade Circle",
+        "city": "Ashburn",
+        "zip": "20147",
+        "address": "21561-21571 Beaumeade Cir, Ashburn, VA 20147",
+        "geocoded_address": "21561, Beaumeade Circle, Ashburn, Loudoun County, Virginia, 20147, United States"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.453663,
+          39.0221022
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "44100 Digital Loudoun Plaza (IAD38)",
+        "company": "Digital Realty",
+        "street": "44100 Digital Loudoun Plaza",
+        "city": "Ashburn",
+        "zip": "20147",
+        "address": "44100 Digital Loudoun Plz, Ashburn, VA 20147",
+        "geocoded_address": "Digital Loudoun Plaza, Moorefield, Loudoun County, Virginia, United States"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.4852786,
+          39.0048276
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "44274 Round Table Plaza, Bldg L (IAD39)",
+        "company": "Digital Realty",
+        "street": "44274 Round Table Plaza",
+        "city": "Ashburn",
+        "zip": "20147",
+        "address": "44274 Round Table Plz, Ashburn, VA 20147",
+        "geocoded_address": "Digital Realty Northern Virginia IAD39, 44274, Round Table Plaza, Ashburn, Loudoun County, Virginia, 20147, United States"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.4674725,
+          39.0076364
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "44060 Digital Loudoun Plaza (IAD37)",
+        "company": "Digital Realty",
+        "street": "44060 Digital Loudoun Plaza",
+        "city": "Ashburn",
+        "zip": "20147",
+        "address": "44060 Digital Loudoun Plz, Ashburn, VA 20147",
+        "geocoded_address": "Digital Loudoun Plaza, Moorefield, Loudoun County, Virginia, United States"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.4852786,
+          39.0048276
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "44461 Chilum Place (ACC6)",
+        "company": "Digital Realty",
+        "street": "44461 Chilum Place",
+        "city": "Ashburn",
+        "zip": "20147",
+        "address": "44461 Chilum Pl, Ashburn, VA 20147",
+        "geocoded_address": "Digital Realty ACC6, 44461, Chilum Place, Ashburn, Loudoun County, Virginia, 20147, United States"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.4635733,
+          39.0210265
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "21625 Gresham Drive (ACC7)",
+        "company": "Digital Realty",
+        "street": "21625 Gresham Drive",
+        "city": "Ashburn",
+        "zip": "20147",
+        "address": "21625 Gresham Dr, Ashburn, VA 20147",
+        "geocoded_address": "Gresham Drive, Norfolk, Virginia, 23507, United States"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.3052734,
+          36.8607415
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "44521 Hastings Drive (ACC5)",
+        "company": "Digital Realty",
+        "street": "44521 Hastings Drive",
+        "city": "Ashburn",
+        "zip": "20147",
+        "address": "44521 Hastings Dr, Ashburn, VA 20147",
+        "geocoded_address": "Digital Realty ACC5, 44521, Hastings Drive, Ashburn, Loudoun County, Virginia, 20147, United States"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.4632384,
+          39.0200887
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "44480 Hastings Drive (ACC4)",
+        "company": "Digital Realty",
+        "street": "44480 Hastings Drive",
+        "city": "Ashburn",
+        "zip": "20147",
+        "address": "44480 Hastings Dr, Ashburn, VA 20147",
+        "geocoded_address": "Digital Realty ACC4, 44480, Hastings Drive, Ashburn, Loudoun County, Virginia, 20147, United States"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.4625307,
+          39.0178959
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "44520 Hastings (ACC3)",
+        "company": "Digital Realty",
+        "street": "44520 Hastings Dr",
+        "city": "Ashburn",
+        "zip": "20147",
+        "address": "44520 Hastings Dr, Ashburn, VA 20147",
+        "geocoded_address": "Digital Realty ACC3, 44520, Hastings Drive, Ashburn, Loudoun County, Virginia, 20174, United States"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.4600526,
+          39.0197603
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "44490 Chillum (ACC2)",
+        "company": "Digital Realty",
+        "street": "44490 Chillum Place",
+        "city": "Ashburn",
+        "zip": "20147",
+        "address": "44490 Chillum Pl, Ashburn, VA 20147",
+        "geocoded_address": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": []
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Cologix ASH1-S",
+        "company": "Cologix",
+        "street": "21745 Beaumeade Circle",
+        "city": "Ashburn",
+        "zip": "20147",
+        "address": "21745 Beaumeade Cir, Ashburn, VA 20147",
+        "geocoded_address": "21745, Beaumeade Circle, Ashburn, Loudoun County, Virginia, 20147, United States"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.4577227,
+          39.0171941
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "21745 Sir Timothy (ACC9)",
+        "company": "Digital Realty",
+        "street": "21745 Sir Timothy Dr",
+        "city": "Ashburn",
+        "zip": "20147",
+        "address": "21745 Sir Timothy Dr, Ashburn, VA 20147",
+        "geocoded_address": "Digital Realty ACC9, 21745, Sir Timothy Drive, Loudoun County, Virginia, 20174, United States"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.4671562,
+          39.0154586
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "44372 Round Table Plaza, Bldg M (IAD40)",
+        "company": "Digital Realty",
+        "street": "44372 Round Table Plaza",
+        "city": "Ashburn",
+        "zip": "20147",
+        "address": "44372 Round Table Plz, Ashburn, VA 20147",
+        "geocoded_address": "Digital Realty Northern Virginia IAD40, 44372, Round Table Plaza, Ashburn, Loudoun County, Virginia, 20147, United States"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.4669815,
+          39.0064939
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "43780 Digital Loudoun Plaza (IAD36)",
+        "company": "Digital Realty",
+        "street": "43780 Digital Loudoun Plaza",
+        "city": "Ashburn",
+        "zip": "20147",
+        "address": "43780 Digital Loudoun Plz, Ashburn, VA 20147",
+        "geocoded_address": "Digital Loudoun Plaza, Moorefield, Loudoun County, Virginia, United States"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.4852786,
+          39.0048276
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "21744 Sir Timothy (ACC10)",
+        "company": "Digital Realty",
+        "street": "21744 Sir Timothy Dr",
+        "city": "Ashburn",
+        "zip": "20147",
+        "address": "21744 Sir Timothy Dr, Ashburn, VA 20147",
+        "geocoded_address": "Digital Realty ACC10, 21744, Sir Timothy Drive, Loudoun County, Virginia, 20174, United States"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.4654004,
+          39.0126817
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "44540 Round Table Plaza (IAD73)",
+        "company": "Digital Realty",
+        "street": "44540 Round Table Plz",
+        "city": "Ashburn",
+        "zip": "20147",
+        "address": "44540 Round Table Plz, Ashburn, VA 20147",
+        "geocoded_address": "Round Table Plaza, Loudoun County, Virginia, 20174, United States"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.4697534,
+          39.0083063
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "43940 Digital Loudoun Plaza (IAD35)",
+        "company": "Digital Realty",
+        "street": "43940 Digital Loudoun Plaza",
+        "city": "Ashburn",
+        "zip": "20147",
+        "address": "43940 Digital Loudoun Plz, Ashburn, VA 20147",
+        "geocoded_address": "Digital Loudoun Plaza, Moorefield, Loudoun County, Virginia, United States"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.4852786,
+          39.0048276
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "43881 Devin Shafron Drive (IAD12)",
+        "company": "Digital Realty",
+        "street": "43881 Devin Shafron Drive",
+        "city": "Ashburn",
+        "zip": "20147",
+        "address": "43881 Devin Shafron Dr, Ashburn, VA 20147",
+        "geocoded_address": "Digital Realty Northern Virginia IAD12, 43881, Devin Shafron Drive, Loudoun Station, Ashburn, Loudoun County, Virginia, 20147, United States"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.4833469,
+          39.0020233
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "43791 Devin Shafron Drive (IAD14)",
+        "company": "Digital Realty",
+        "street": "43791 Devin Shafron Drive",
+        "city": "Ashburn",
+        "zip": "20147",
+        "address": "43791 Devin Shafron Dr, Ashburn, VA 20147",
+        "geocoded_address": "Digital Realty Northern Virginia IAD14, 43791, Devin Shafron Drive, Loudoun Station, Ashburn, Loudoun County, Virginia, 20147, United States"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.4870935,
+          39.0033363
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "44470 Chilum Place (IAD18)",
+        "company": "Digital Realty",
+        "street": "44470 Chilum Place",
+        "city": "Ashburn",
+        "zip": "20147",
+        "address": "44470 Chilum Pl, Ashburn, VA 20147",
+        "geocoded_address": "Equinix Ashburn DC3, 44470, Chilum Place, Ashburn, Loudoun County, Virginia, 20147, United States"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.4607844,
+          39.0220753
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "43831 Devin Shafron (IAD13)",
+        "company": "Digital Realty",
+        "street": "43831 Devin Shafron Dr",
+        "city": "Ashburn",
+        "zip": "20147",
+        "address": "43831 Devin Shafron Dr, Ashburn, VA 20147",
+        "geocoded_address": "Amazon Web Services Building C, 43831, Devin Shafron Drive, Loudoun Station, Moorefield, Loudoun County, Virginia, 20147, United States"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.4854487,
+          39.0027517
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "22124 Broderick Drive, Bldg R (IAD42)",
+        "company": "Digital Realty",
+        "street": "22124 Broderick Drive (Bldg R)",
+        "city": "Ashburn",
+        "zip": "20147",
+        "address": "22124 Broderick Dr (Bldg R), Ashburn, VA 20147",
+        "geocoded_address": "22124, Broderick Drive, Loudoun County, Virginia, 20166, United States"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.4493581,
+          39.0042103
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "21362 Smith Switch (ACC8)",
+        "company": "Digital Realty",
+        "street": "21362 Smith Switch Rd",
+        "city": "Ashburn",
+        "zip": "20147",
+        "address": "21362 Smith Switch Rd, Ashburn, VA 20147",
+        "geocoded_address": "21362, Smith Switch Road, Ashburn, Loudoun County, Virginia, 20147, United States"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.4633283,
+          39.0242384
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "43915 Devin Shafron (IAD15)",
+        "company": "GI Property Management",
+        "street": "43915 Devin Shafron Drive",
+        "city": "Ashburn",
+        "zip": "20147",
+        "address": "43915 Devin Shafron Dr, Ashburn, VA 20147",
+        "geocoded_address": "Digital Realty Building A, 43915, Devin Shafron Drive, Loudoun Station, Moorefield, Loudoun County, Virginia, 20147, United States"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.4819573,
+          39.0027603
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "44751 Round Table Plaza, Bldg P (IAD41)",
+        "company": "Digital Realty",
+        "street": "44751 Round Table Plaza (Bldg P)",
+        "city": "Ashburn",
+        "zip": "20147",
+        "address": "44751 Round Table Plz (Bldg P), Ashburn, VA 20147",
+        "geocoded_address": "Digital Realty Building P, 44751, Round Table Plaza, Ashburn, Loudoun County, Virginia, 20147, United States"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.4572811,
+          39.0092486
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "NTT Ashburn VA1",
+        "company": "NTT Global Data Centers",
+        "street": "44664 Guilford Drive",
+        "city": "Ashburn",
+        "zip": "20147",
+        "address": "44664 Guilford Dr, Ashburn, VA 20147",
+        "geocoded_address": "NTT Ashburn VA1 Data Center, 44664, Guilford Drive, Ashburn, Loudoun County, Virginia, 20147, United States"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.4548256,
+          39.0227549
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "NTT Ashburn VA3",
+        "company": "NTT Global Data Centers",
+        "street": "21583 Megawatt Drive",
+        "city": "Ashburn",
+        "zip": "20147",
+        "address": "21583 Megawatt Dr, Ashburn, VA 20147",
+        "geocoded_address": "NTT Ashburn VA5 Data Center, 21583, Megawatt Drive, NTT Ashburn Campus, Ashburn, Loudoun County, Virginia, 20147, United States"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.4726125,
+          39.0182982
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "NTT Ashburn VA4",
+        "company": "NTT Global Data Centers",
+        "street": "21583 Megawatt Drive",
+        "city": "Ashburn",
+        "zip": "20147",
+        "address": "21583 Megawatt Dr, Ashburn, VA 20147",
+        "geocoded_address": "NTT Ashburn VA5 Data Center, 21583, Megawatt Drive, NTT Ashburn Campus, Ashburn, Loudoun County, Virginia, 20147, United States"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.4726125,
+          39.0182982
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "NTT Ashburn VA2",
+        "company": "NTT Global Data Centers",
+        "street": "44610 Guilford Drive",
+        "city": "Ashburn",
+        "zip": "20147",
+        "address": "44610 Guilford Dr, Ashburn, VA 20147",
+        "geocoded_address": "NTT Ashburn VA2 Data Center, 44610, Guilford Drive, Ashburn, Loudoun County, Virginia, 20147, United States"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.4576423,
+          39.025005
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "NTT Ashburn VA5",
+        "company": "NTT Global Data Centers",
+        "street": "21583 Megawatt Drive",
+        "city": "Ashburn",
+        "zip": "20147",
+        "address": "21583 Megawatt Dr, Ashburn, VA 20147",
+        "geocoded_address": "NTT Ashburn VA5 Data Center, 21583, Megawatt Drive, NTT Ashburn Campus, Ashburn, Loudoun County, Virginia, 20147, United States"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.4726125,
+          39.0182982
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Element Critical Northern Virginia",
+        "company": "Element Critical",
+        "street": "7990 Quantum Dr",
+        "city": "Vienna",
+        "zip": "22182",
+        "address": "7990 Quantum Dr, Vienna, VA 22182",
+        "geocoded_address": "Quantum Drive, Paradise, Newfoundland, Newfoundland and Labrador, A1L 2V2, Canada"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -52.8904836,
+          47.5396763
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Equinix DC11",
+        "company": "Equinix",
+        "street": "21721 Filigree Court",
+        "city": "Ashburn",
+        "zip": "20147",
+        "address": "21721 Filigree Ct, Ashburn, VA 20147",
+        "geocoded_address": "Equinix Ashburn DC11, 21721, Filigree Court, Ashburn, Loudoun County, Virginia, 20147, United States"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.4587896,
+          39.0149639
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Equinix DC2",
+        "company": "Equinix",
+        "street": "21715 Filigree Court",
+        "city": "Ashburn",
+        "zip": "20147",
+        "address": "21715 Filigree Ct, Ashburn, VA 20147",
+        "geocoded_address": "Equinix Ashburn DC2, 21715, Filigree Court, Ashburn, Loudoun County, Virginia, 20147, United States"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.4587623,
+          39.0163313
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "SDC Ashburn A",
+        "company": "Sabey Data Center Properties LLC",
+        "street": "21741 Red Rum Dr",
+        "city": "Ashburn",
+        "zip": "20147",
+        "address": "21741 Red Rum Dr, Ashburn, VA 20147",
+        "geocoded_address": "21741, Red Rum Drive, Loudoun County, Virginia, 20147, United States"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.4807352,
+          39.0167959
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Equinix DC21",
+        "company": "Equinix",
+        "street": "22175 Beaumeade Circle",
+        "city": "Ashburn",
+        "zip": "20147",
+        "address": "22175 Beaumeade Cir, Ashburn, VA 20147",
+        "geocoded_address": "Equinix Ashburn DC21, 22175, Beaumeade Circle, Ashburn, Loudoun County, Virginia, 20147, United States"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.454718,
+          39.0115447
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Equinix DC12",
+        "company": "Equinix",
+        "street": "44790 Performance Circle",
+        "city": "Ashburn",
+        "zip": "20147",
+        "address": "44790 Performance Cir, Ashburn, VA 20147",
+        "geocoded_address": "Equinix Ashburn DC12, 44790, Performance Circle, Ashburn, Loudoun County, Virginia, 20147, United States"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.4497935,
+          39.0230296
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "H5 Data Centers Ashburn",
+        "company": "H5 Data Centers",
+        "street": "21800 Beaumeade Cir",
+        "city": "Ashburn",
+        "zip": "20147",
+        "address": "21800 Beaumeade Cir, Ashburn, VA 20147",
+        "geocoded_address": "H5 Data Centers Ashburn, 21800, Beaumeade Circle, Ashburn, Loudoun County, Virginia, 20147, United States"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.4517194,
+          39.0136777
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Aligned IAD-02",
+        "company": "Aligned Data Centers",
+        "street": "21821 Uunet Drive",
+        "city": "Ashburn",
+        "zip": "20147",
+        "address": "21821 Uunet Dr, Ashburn, VA 20147",
+        "geocoded_address": "21821, Uunet Drive, Verizon Business, Loudoun County, Virginia, 20147, United States"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.474627,
+          39.0122237
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Equinix DC1",
+        "company": "Equinix",
+        "street": "21711 Filigree Court",
+        "city": "Ashburn",
+        "zip": "20147",
+        "address": "21711 Filigree Ct, Ashburn, VA 20147",
+        "geocoded_address": "Equinix Ashburn DC1, 21711, Filigree Court, Ashburn, Loudoun County, Virginia, 20147, United States"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.460341,
+          39.0155285
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Equinix DC4",
+        "company": "Equinix",
+        "street": "21691 Filigree Court",
+        "city": "Ashburn",
+        "zip": "20147",
+        "address": "21691 Filigree Ct, Ashburn, VA 20147",
+        "geocoded_address": "Equinix Ashburn DC4, 21691, Filigree Court, Ashburn, Loudoun County, Virginia, 20147, United States"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.4619027,
+          39.0163151
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Equinix DC3",
+        "company": "Equinix",
+        "street": "44470 Chilum Place",
+        "city": "Ashburn",
+        "zip": "20147",
+        "address": "44470 Chilum Pl, Ashburn, VA 20147",
+        "geocoded_address": "Equinix Ashburn DC3, 44470, Chilum Place, Ashburn, Loudoun County, Virginia, 20147, United States"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.4607844,
+          39.0220753
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Equinix DC6",
+        "company": "Equinix",
+        "street": "21721 Filigree Court",
+        "city": "Ashburn",
+        "zip": "20147",
+        "address": "21721 Filigree Ct, Ashburn, VA 20147",
+        "geocoded_address": "Equinix Ashburn DC11, 21721, Filigree Court, Ashburn, Loudoun County, Virginia, 20147, United States"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.4587896,
+          39.0149639
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Centersquare - Ashburn IAD4-A",
+        "company": "Centersquare",
+        "street": "21571 Beaumeade Circle",
+        "city": "Ashburn",
+        "zip": "20147",
+        "address": "21571 Beaumeade Cir, Ashburn, VA 20147",
+        "geocoded_address": "21571, Beaumeade Circle, Ashburn, Loudoun County, Virginia, 20147, United States"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.4525891,
+          39.021851
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Equinix DC10",
+        "company": "Equinix",
+        "street": "21551 Beaumeade Circle",
+        "city": "Ashburn",
+        "zip": "20147",
+        "address": "21551 Beaumeade Cir, Ashburn, VA 20147",
+        "geocoded_address": "Equinix Ashburn DC10, 21551, Beaumeade Circle, Ashburn, Loudoun County, Virginia, 20147, United States"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.4515166,
+          39.0210198
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Equinix DC5",
+        "company": "Equinix",
+        "street": "21701 Filigree Court",
+        "city": "Ashburn",
+        "zip": "20147",
+        "address": "21701 Filigree Ct, Ashburn, VA 20147",
+        "geocoded_address": "Equinix Ashburn DC5, 21701, Filigree Court, Ashburn, Loudoun County, Virginia, 20147, United States"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.4611729,
+          39.016039
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Aligned IAD-01",
+        "company": "Aligned Data Centers",
+        "street": "21890 Uunet Drive",
+        "city": "Ashburn",
+        "zip": "20147",
+        "address": "21890 Uunet Dr, Ashburn, VA 20147",
+        "geocoded_address": "21890, Uunet Drive, Verizon Business, Loudoun County, Virginia, 20147, United States"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.4692638,
+          39.0136311
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Summit Ashburn",
+        "company": "Summit (formerly Deft)",
+        "street": "43830 Devin Shafron Dr",
+        "city": "Ashburn",
+        "zip": "20147",
+        "address": "43830 Devin Shafron Dr, Ashburn, VA 20147",
+        "geocoded_address": "Digital Realty Northern Virginia IAD24, 43830, Devin Shafron Drive, Loudoun Station, Ashburn, Loudoun County, Virginia, 20147, United States"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.4843499,
+          39.0043335
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "QTS Ashburn 3 DC1",
+        "company": "QTS Data Centers",
+        "street": "22291 Shellhorn Road",
+        "city": "Ashburn",
+        "zip": "20147",
+        "address": "22291 Shellhorn Rd, Ashburn, VA 20147",
+        "geocoded_address": "Shellhorn Road, Ryan, Ashburn, Loudoun County, Virginia, 20147, United States"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.4983692,
+          39.020406
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Centersquare - Ashburn IAD4-B",
+        "company": "Centersquare",
+        "street": "21561 Beaumeade Circle",
+        "city": "Ashburn",
+        "zip": "20147",
+        "address": "21561 Beaumeade Cir, Ashburn, VA 20147",
+        "geocoded_address": "21561, Beaumeade Circle, Ashburn, Loudoun County, Virginia, 20147, United States"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.453663,
+          39.0221022
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "DataBank IAD1 - Ashburn",
+        "company": "DataBank",
+        "street": "21635 Red Rum Drive",
+        "city": "Ashburn",
+        "zip": "20147",
+        "address": "21635 Red Rum Dr, Ashburn, VA 20147",
+        "geocoded_address": "21635, Red Rum Drive, Loudoun County, Virginia, 20147, United States"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.4758524,
+          39.0148093
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Equinix DC13",
+        "company": "Equinix",
+        "street": "21830 Uunet Way",
+        "city": "Ashburn",
+        "zip": "20147",
+        "address": "21830 Uunet Way, Ashburn, VA 20147",
+        "geocoded_address": "Equinix DC13, 21830, Waxpool Road, Ashburn, Loudoun County, Virginia, 20147, United States"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.4754058,
+          39.0125258
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Equinix DC15",
+        "company": "Equinix",
+        "street": "44780 Performance Circle",
+        "city": "Ashburn",
+        "zip": "20147",
+        "address": "44780 Performance Cir, Ashburn, VA 20147",
+        "geocoded_address": "Equinix Ashburn DC15, 44780, Performance Circle, Ashburn, Loudoun County, Virginia, 20147, United States"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.4502558,
+          39.0225001
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "EdgeCore Ashburn AS01",
+        "company": "EdgeCore",
+        "street": "45865 Maries Road",
+        "city": "Sterling",
+        "zip": "20166",
+        "address": "45865 Maries Rd, Sterling, VA 20166",
+        "geocoded_address": "Williams Greenhouses & Nursery, 45865, Maries Road, Dulles Town Center, Loudoun County, Virginia, 20166, United States"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.4139495,
+          39.0225683
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Equinix DC16",
+        "company": "Equinix",
+        "street": "44740 Performance Circle",
+        "city": "Ashburn",
+        "zip": "20147",
+        "address": "44740 Performance Cir, Ashburn, VA 20147",
+        "geocoded_address": "Equinix Ashburn DC16, 44740, Performance Circle, Ashburn, Loudoun County, Virginia, 20147, United States"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.4523269,
+          39.0242573
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "QTS Ashburn 3 DC2",
+        "company": "QTS Data Centers",
+        "street": "22271 Shellhorn Road",
+        "city": "Ashburn",
+        "zip": "20147",
+        "address": "22271 Shellhorn Rd, Ashburn, VA 20147",
+        "geocoded_address": "Shellhorn Road, Ryan, Ashburn, Loudoun County, Virginia, 20147, United States"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.4983692,
+          39.020406
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Remington Technology Park",
+        "company": "PointOne",
+        "street": "6980 Helm Dr",
+        "city": "Remington",
+        "zip": "22734",
+        "address": "6980 Helm Dr, Remington, VA 22734",
+        "geocoded_address": "Helm Drive, Fauquier County, Virginia, 22734, United States"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.7924298,
+          38.533452
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "DataBank IAD3 - Ashburn Campus",
+        "company": "DataBank",
+        "street": "21630 Red Rum Drive",
+        "city": "Ashburn",
+        "zip": "20147",
+        "address": "21630 Red Rum Dr, Ashburn, VA 20147",
+        "geocoded_address": "21630, Red Rum Drive, Loudoun County, Virginia, 20147, United States"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.4820362,
+          39.0168679
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Microsoft Compass Creek Campus",
+        "company": "Microsoft",
+        "street": "19515-19540 Compass Creek Pkwy",
+        "city": "Leesburg",
+        "zip": "20175",
+        "address": "19515-19540 Compass Creek Pkwy, Leesburg, VA 20175",
+        "geocoded_address": "Compass Creek Parkway Southeast, Oaklawn, Leesburg, Loudoun County, Virginia, 20175, United States"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.5638483,
+          39.0831138
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "CloudHQ LC Campus",
+        "company": "CloudHQ",
+        "street": "21955 Loudoun County Pkwy",
+        "city": "Ashburn",
+        "zip": "20147",
+        "address": "21955 Loudoun County Pkwy, Ashburn, VA 20147",
+        "geocoded_address": "Loudoun County Parkway, University Center, Loudoun County, Virginia, 20417, United States"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.4511258,
+          39.0495089
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "CyrusOne NVA14",
+        "company": "CyrusOne Data Centers",
+        "street": "21529 Beaumeade Circle",
+        "city": "Ashburn",
+        "zip": "20147",
+        "address": "21529 Beaumeade Cir, Ashburn, VA 20147",
+        "geocoded_address": "21529, Beaumeade Circle, Ashburn, Loudoun County, Virginia, 20147, United States"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.4535648,
+          39.0208813
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Rackspace Ashburn",
+        "company": "Rackspace Hosting",
+        "street": "44461 Chilum Place",
+        "city": "Ashburn",
+        "zip": "20147",
+        "address": "44461 Chilum Pl, Ashburn, VA 20147",
+        "geocoded_address": "Digital Realty ACC6, 44461, Chilum Place, Ashburn, Loudoun County, Virginia, 20147, United States"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.4635733,
+          39.0210265
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Quantum Connect",
+        "company": "PowerHouse Data Centers",
+        "street": "22001 Loudoun County Pkwy",
+        "city": "Ashburn",
+        "zip": "20147",
+        "address": "22001 Loudoun County Pkwy, Ashburn, VA 20147",
+        "geocoded_address": "Loudoun County Parkway, University Center, Loudoun County, Virginia, 20417, United States"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.4511258,
+          39.0495089
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Microsoft - 41720 Inclusion Ln",
+        "company": "Microsoft",
+        "street": "41720 Inclusion Ln",
+        "city": "Leesburg",
+        "zip": "20175",
+        "address": "41720 Inclusion Ln, Leesburg, VA 20175",
+        "geocoded_address": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": []
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "NTT Ashburn Campus",
+        "company": "NTT Global Data Centers",
+        "street": "Megawatt Dr / Gigabit Plz",
+        "city": "Ashburn",
+        "zip": "20147",
+        "address": "Megawatt Dr / Gigabit Plz, Ashburn, VA 20147",
+        "geocoded_address": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": []
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Dulles 28 Technology Park",
+        "company": "The BlackChamber Group",
+        "street": "Pacific Blvd / Wapool Rd",
+        "city": "Ashburn",
+        "zip": "20166",
+        "address": "Pacific Blvd / Wapool Rd, Ashburn, VA 20166",
+        "geocoded_address": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": []
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "CloudHQ LC13",
+        "company": "CloudHQ",
+        "street": "22131 Loudoun County Pkwy",
+        "city": "Ashburn",
+        "zip": "20147",
+        "address": "22131 Loudoun County Pkwy, Ashburn, VA 20147",
+        "geocoded_address": "Loudoun County Parkway, University Center, Loudoun County, Virginia, 20417, United States"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.4511258,
+          39.0495089
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "CloudHQ LC1",
+        "company": "CloudHQ",
+        "street": "21955 Loudoun County Pkwy",
+        "city": "Ashburn",
+        "zip": "20147",
+        "address": "21955 Loudoun County Pkwy, Ashburn, VA 20147",
+        "geocoded_address": "Loudoun County Parkway, University Center, Loudoun County, Virginia, 20417, United States"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.4511258,
+          39.0495089
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "CloudHQ LC11",
+        "company": "CloudHQ",
+        "street": "22131 Loudoun County Pkwy",
+        "city": "Ashburn",
+        "zip": "20147",
+        "address": "22131 Loudoun County Pkwy, Ashburn, VA 20147",
+        "geocoded_address": "Loudoun County Parkway, University Center, Loudoun County, Virginia, 20417, United States"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.4511258,
+          39.0495089
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "CloudHQ LC12",
+        "company": "CloudHQ",
+        "street": "22131 Loudoun County Pkwy",
+        "city": "Ashburn",
+        "zip": "20147",
+        "address": "22131 Loudoun County Pkwy, Ashburn, VA 20147",
+        "geocoded_address": "Loudoun County Parkway, University Center, Loudoun County, Virginia, 20417, United States"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.4511258,
+          39.0495089
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Compass Loudoun County I - Campus",
+        "company": "Compass Datacenters",
+        "street": "Thunderball Dr",
+        "city": "Ashburn",
+        "zip": "20148",
+        "address": "Thunderball Dr, Ashburn, VA 20148",
+        "geocoded_address": "Thunderball Drive, True North Data Centers, Loudoun County, Virginia, United States"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.5406926,
+          39.0420367
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "STACK Infrastructure NVA06",
+        "company": "STACK INFRASTRUCTURE",
+        "street": "19275 Compass Creek Pkwy",
+        "city": "Leesburg",
+        "zip": "20175",
+        "address": "19275 Compass Creek Pkwy, Leesburg, VA 20175",
+        "geocoded_address": "Compass Creek Parkway Southeast, Oaklawn, Leesburg, Loudoun County, Virginia, 20175, United States"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.5638483,
+          39.0831138
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "CloudHQ LC9",
+        "company": "CloudHQ",
+        "street": "22210 Loudoun County Parkway",
+        "city": "Ashburn",
+        "zip": "20147",
+        "address": "22210 Loudoun County Pkwy, Ashburn, VA 20147",
+        "geocoded_address": "Loudoun County Parkway, University Center, Loudoun County, Virginia, 20417, United States"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.4511258,
+          39.0495089
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "CloudHQ LC10",
+        "company": "CloudHQ",
+        "street": "22210 Loudoun County Parkway",
+        "city": "Ashburn",
+        "zip": "20147",
+        "address": "22210 Loudoun County Pkwy, Ashburn, VA 20147",
+        "geocoded_address": "Loudoun County Parkway, University Center, Loudoun County, Virginia, 20417, United States"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.4511258,
+          39.0495089
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Google Loudoun County Campus",
+        "company": "Google",
+        "street": "Energy Park Drive",
+        "city": "Leesburg",
+        "zip": "20175",
+        "address": "Energy Park Dr, Leesburg, VA 20175",
+        "geocoded_address": "Energy Park Drive, Loudoun County, Virginia, United States"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.5419776,
+          39.0502894
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Microsoft - 41730 Inclusion Ln",
+        "company": "Microsoft",
+        "street": "41730 Inclusion Ln",
+        "city": "Leesburg",
+        "zip": "20175",
+        "address": "41730 Inclusion Ln, Leesburg, VA 20175",
+        "geocoded_address": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": []
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "CloudHQ LC8",
+        "company": "CloudHQ",
+        "street": "22210 Loudoun County Parkway",
+        "city": "Ashburn",
+        "zip": "20147",
+        "address": "22210 Loudoun County Pkwy, Ashburn, VA 20147",
+        "geocoded_address": "Loudoun County Parkway, University Center, Loudoun County, Virginia, 20417, United States"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.4511258,
+          39.0495089
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "CloudHQ LC4",
+        "company": "CloudHQ",
+        "street": "22210 Loudoun County Parkway",
+        "city": "Ashburn",
+        "zip": "20147",
+        "address": "22210 Loudoun County Pkwy, Ashburn, VA 20147",
+        "geocoded_address": "Loudoun County Parkway, University Center, Loudoun County, Virginia, 20417, United States"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.4511258,
+          39.0495089
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "CloudHQ LC3",
+        "company": "CloudHQ",
+        "street": "44631 Waxpool Rd",
+        "city": "Ashburn",
+        "zip": "20147",
+        "address": "44631 Waxpool Rd, Ashburn, VA 20147",
+        "geocoded_address": "44631, Waxpool Road, Loudoun County, Virginia, 20147, United States"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.475227,
+          39.0132066
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Amazon AWS IAD - Loudoun County Campus",
+        "company": "Amazon AWS",
+        "street": "20935-20934 Lodoun County Pkwy",
+        "city": "Ashburn",
+        "zip": "20147",
+        "address": "20935-20934 Lodoun County Pkwy, Ashburn, VA 20147",
+        "geocoded_address": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": []
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Amazon AWS IAD - Import Campus",
+        "company": "Amazon AWS",
+        "street": "44351-44254 Import Plaza",
+        "city": "Ashburn",
+        "zip": "20147",
+        "address": "44351-44254 Import Plz, Ashburn, VA 20147",
+        "geocoded_address": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": []
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "CloudHQ LC14",
+        "company": "CloudHQ",
+        "street": "22131 Loudoun County Pkwy",
+        "city": "Ashburn",
+        "zip": "20147",
+        "address": "22131 Loudoun County Pkwy, Ashburn, VA 20147",
+        "geocoded_address": "Loudoun County Parkway, University Center, Loudoun County, Virginia, 20417, United States"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.4511258,
+          39.0495089
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "CloudHQ LC2",
+        "company": "CloudHQ",
+        "street": "44621 Waxpool Rd",
+        "city": "Ashburn",
+        "zip": "20147",
+        "address": "44621 Waxpool Rd, Ashburn, VA 20147",
+        "geocoded_address": "44621, Waxpool Road, Loudoun County, Virginia, 20147, United States"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.475304,
+          39.0131878
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "CloudHQ MCC1",
+        "company": "CloudHQ",
+        "street": "10880 Airman Ave",
+        "city": "Manassas",
+        "zip": "20112",
+        "address": "10880 Airman Ave, Manassas, VA 20112",
+        "geocoded_address": "Airman Avenue, Chevalle, Prince William County, Virginia, 22136, United States"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.4972406,
+          38.719606
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Google Loudoun County Data Center 1",
+        "company": "Google",
+        "street": "Goose Landing Ln",
+        "city": "Leesburg",
+        "zip": "20175",
+        "address": "Goose Landing Ln, Leesburg, VA 20175",
+        "geocoded_address": "Goose Landing Lane, Queen Anne's County, Maryland, 21679, United States"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.1021405,
+          38.9847371
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "43790 Devin Shafron Dr",
+        "company": "Menlo Equities",
+        "street": "43790 Devin Shafron Dr",
+        "city": "Ashburn",
+        "zip": "20147",
+        "address": "43790 Devin Shafron Dr, Ashburn, VA 20147",
+        "geocoded_address": "AWS Building E, 43790, Devin Shafron Drive, Loudoun Station, Ashburn, Loudoun County, Virginia, 20147, United States"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.4856628,
+          39.0050186
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "SDC Ashburn C",
+        "company": "Sabey Data Center Properties LLC",
+        "street": "21735 Red Rum Drive",
+        "city": "Ashburn",
+        "zip": "20147",
+        "address": "21735 Red Rum Dr, Ashburn, VA 20147",
+        "geocoded_address": "21735, Red Rum Drive, Loudoun County, Virginia, 20147, United States"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.4804345,
+          39.0167568
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Vantage VA3 - Ashburn III Campus",
+        "company": "Vantage Data Centers",
+        "street": "19509 Belmont Ridge Road",
+        "city": "Ashburn",
+        "zip": "20147",
+        "address": "19509 Belmont Ridge Rd, Ashburn, VA 20147",
+        "geocoded_address": "19509, Belmont Ridge Road, Belmont Greene, Belmont, Loudoun County, Virginia, 20147, United States"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.5070494,
+          39.0701301
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "STACK Infrastructure NVA01A",
+        "company": "STACK INFRASTRUCTURE",
+        "street": "22080 Pacific Blvd.",
+        "city": "Sterling",
+        "zip": "20166",
+        "address": "22080 Pacific Blvd., Sterling, VA 20166",
+        "geocoded_address": "Pacific Boulevard, Sterling, Loudoun County, Virginia, 20166, United States"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.434409,
+          38.9797061
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Equinix DC22",
+        "company": "Equinix",
+        "street": "22165 Beaumeade Circle",
+        "city": "Ashburn",
+        "zip": "20147",
+        "address": "22165 Beaumeade Cir, Ashburn, VA 20147",
+        "geocoded_address": "Beaumeade Circle, Ashburn, Loudoun County, Virginia, 20174, United States"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.4564882,
+          39.0200441
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Amazon AWS IAD - Interconnection Campus",
+        "company": "Amazon AWS",
+        "street": "44854-44862 Interconnection Plz",
+        "city": "Ashburn",
+        "zip": "20147",
+        "address": "44854-44862 Interconnection Plz, Ashburn, VA 20147",
+        "geocoded_address": "Amazon IAD78, 44854, Interconnection Plaza, Ashburn, Loudoun County, Virginia, 20147, United States"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.4495202,
+          39.0263681
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Amazon IAD - 44305 Import",
+        "company": "Amazon AWS",
+        "street": "44305 Import Plaza",
+        "city": "Ashburn",
+        "zip": "20147",
+        "address": "44305 Import Plz, Ashburn, VA 20147",
+        "geocoded_address": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": []
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Lumen Ashburn",
+        "company": "Lumen",
+        "street": "44633 Guilford Drive",
+        "city": "Ashburn",
+        "zip": "20147",
+        "address": "44633 Guilford Dr, Ashburn, VA 20147",
+        "geocoded_address": "44633, Guilford Drive, Ashburn, Loudoun County, Virginia, 20147, United States"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.4566155,
+          39.0226929
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Microsoft - 19525 Compass Creek",
+        "company": "Microsoft",
+        "street": "19525 Compass Creek Pkwy",
+        "city": "Leesburg",
+        "zip": "20175",
+        "address": "19525 Compass Creek Pkwy, Leesburg, VA 20175",
+        "geocoded_address": "Compass Creek Parkway Southeast, Oaklawn, Leesburg, Loudoun County, Virginia, 20175, United States"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.5638483,
+          39.0831138
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Amazon IAD - 44254 Import",
+        "company": "Amazon AWS",
+        "street": "44254 Import Plaza",
+        "city": "Ashburn",
+        "zip": "20147",
+        "address": "44254 Import Plz, Ashburn, VA 20147",
+        "geocoded_address": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": []
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "NTT Ashburn VA7",
+        "company": "NTT Global Data Centers",
+        "street": "44371 Gigabit Plaza",
+        "city": "Ashburn",
+        "zip": "20147",
+        "address": "44371 Gigabit Plz, Ashburn, VA 20147",
+        "geocoded_address": "Gigabit Plaza, NTT Ashburn Campus, Ashburn, Loudoun County, Virginia, 20174, United States"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.4701507,
+          39.0183367
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "NTT Ashburn VA9",
+        "company": "NTT Global Data Centers",
+        "street": "44720 Gigabit Plaza",
+        "city": "Ashburn",
+        "zip": "20147",
+        "address": "44720 Gigabit Plz, Ashburn, VA 20147",
+        "geocoded_address": "Gigabit Plaza, NTT Ashburn Campus, Ashburn, Loudoun County, Virginia, 20174, United States"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.4701507,
+          39.0183367
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Amazon AWS IAD - 20945 Loudoun",
+        "company": "Amazon AWS",
+        "street": "20945 Loudoun County Pkwy",
+        "city": "Ashburn",
+        "zip": "20147",
+        "address": "20945 Loudoun County Pkwy, Ashburn, VA 20147",
+        "geocoded_address": "Loudoun County Parkway, University Center, Loudoun County, Virginia, 20417, United States"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.4511258,
+          39.0495089
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Google Loudoun County Data Center 2",
+        "company": "Google",
+        "street": "Goose Landing Ln",
+        "city": "Leesburg",
+        "zip": "20175",
+        "address": "Goose Landing Ln, Leesburg, VA 20175",
+        "geocoded_address": "Goose Landing Lane, Queen Anne's County, Maryland, 21679, United States"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.1021405,
+          38.9847371
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Compass Loudoun County I - D",
+        "company": "Compass Datacenters",
+        "street": "42311 Thunderball Dr",
+        "city": "Ashburn",
+        "zip": "20148",
+        "address": "42311 Thunderball Dr, Ashburn, VA 20148",
+        "geocoded_address": "42311 THUNDERBALL DR, 42311, Thunderball Drive, True North Data Centers, Leesburg, Loudoun County, Virginia, 20175, United States"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.5381665,
+          39.0423554
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Microsoft - 19515 Compass Creek",
+        "company": "Microsoft",
+        "street": "19515 Compass Creek Pkwy",
+        "city": "Leesburg",
+        "zip": "20175",
+        "address": "19515 Compass Creek Pkwy, Leesburg, VA 20175",
+        "geocoded_address": "Compass Creek Parkway Southeast, Oaklawn, Leesburg, Loudoun County, Virginia, 20175, United States"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.5638483,
+          39.0831138
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "NTT Ashburn VA8",
+        "company": "NTT Global Data Centers",
+        "street": "44725 Gigabit Plaza",
+        "city": "Ashburn",
+        "zip": "20147",
+        "address": "44725 Gigabit Plz, Ashburn, VA 20147",
+        "geocoded_address": "Gigabit Plaza, NTT Ashburn Campus, Ashburn, Loudoun County, Virginia, 20174, United States"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.4701507,
+          39.0183367
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Compass Loudoun County I - B",
+        "company": "Compass Datacenters",
+        "street": "42250 Thunderball Dr",
+        "city": "Ashburn",
+        "zip": "20148",
+        "address": "42250 Thunderball Dr, Ashburn, VA 20148",
+        "geocoded_address": "Thunderball Drive, True North Data Centers, Loudoun County, Virginia, United States"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.5406926,
+          39.0420367
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Amazon IAD - 44351 Import",
+        "company": "Amazon AWS",
+        "street": "44351 Import Plaza",
+        "city": "Ashburn",
+        "zip": "20147",
+        "address": "44351 Import Plz, Ashburn, VA 20147",
+        "geocoded_address": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": []
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "QTS Ashburn 3 Campus",
+        "company": "QTS Data Centers",
+        "street": "22271-22291 Shellhorn Road",
+        "city": "Ashburn",
+        "zip": "20147",
+        "address": "22271-22291 Shellhorn Rd, Ashburn, VA 20147",
+        "geocoded_address": "Shellhorn Road, Ryan, Ashburn, Loudoun County, Virginia, 20147, United States"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.4983692,
+          39.020406
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Windstream Ashburn",
+        "company": "Windstream",
+        "street": "44200 Waxpool Rd",
+        "city": "Ashburn",
+        "zip": "20147",
+        "address": "44200 Waxpool Rd, Ashburn, VA 20147",
+        "geocoded_address": "44200, Waxpool Road, Loudoun County, Virginia, 20147, United States"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.4734606,
+          39.0138552
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Microsoft - 41700 Inclusion Ln (IAD4)",
+        "company": "Microsoft",
+        "street": "41700 Inclusion Ln",
+        "city": "Leesburg",
+        "zip": "20175",
+        "address": "41700 Inclusion Ln, Leesburg, VA 20175",
+        "geocoded_address": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": []
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Tech Park at Brambleton",
+        "company": "The BlackChamber Group",
+        "street": "23896 Belmont Ridge Road",
+        "city": "Ashburn",
+        "zip": "20148",
+        "address": "23896 Belmont Ridge Rd, Ashburn, VA 20148",
+        "geocoded_address": "Belmont Ridge Road, Goose Creek Village, Loudoun County, Virginia, 20147, United States"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.5201687,
+          39.0421636
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "CloudHQ LC5",
+        "company": "CloudHQ",
+        "street": "21615 Lockridge Rd",
+        "city": "Ashburn",
+        "zip": "20147",
+        "address": "21615 Lockridge Rd, Ashburn, VA 20147",
+        "geocoded_address": "Lockridge Road, Loudoun County, Virginia, 20103, United States"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.4590317,
+          39.0009197
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Amazon AWS IAD - 44858 Interconnection",
+        "company": "Amazon AWS",
+        "street": "44858 Interconnection Plz",
+        "city": "Ashburn",
+        "zip": "20147",
+        "address": "44858 Interconnection Plz, Ashburn, VA 20147",
+        "geocoded_address": "Amazon IAD79, 44858, Interconnection Plaza, Ashburn, Loudoun County, Virginia, 20147, United States"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.4508703,
+          39.0263573
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Amazon AWS IAD - 21263 Smith",
+        "company": "Amazon AWS",
+        "street": "21263 Smith Switch Rd",
+        "city": "Ashburn",
+        "zip": "20147",
+        "address": "21263 Smith Switch Rd, Ashburn, VA 20147",
+        "geocoded_address": "Amazon IAD50, 21263, Smith Switch Road, Ashburn, Loudoun County, Virginia, 20147, United States"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.4596651,
+          39.0295775
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Amazon AWS IAD - 44854 Interconnection",
+        "company": "Amazon AWS",
+        "street": "44854 Interconnection Plz",
+        "city": "Ashburn",
+        "zip": "20147",
+        "address": "44854 Interconnection Plz, Ashburn, VA 20147",
+        "geocoded_address": "Amazon IAD78, 44854, Interconnection Plaza, Ashburn, Loudoun County, Virginia, 20147, United States"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.4495202,
+          39.0263681
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "LightEdge - Ashburn",
+        "company": "LightEdge",
+        "street": "21721 Filigree Ct",
+        "city": "Ashburn",
+        "zip": "20147",
+        "address": "21721 Filigree Ct, Ashburn, VA 20147",
+        "geocoded_address": "Equinix Ashburn DC11, 21721, Filigree Court, Ashburn, Loudoun County, Virginia, 20147, United States"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.4587896,
+          39.0149639
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Compass Loudoun County I - A",
+        "company": "Compass Datacenters",
+        "street": "42310 Thunderball Dr",
+        "city": "Ashburn",
+        "zip": "20148",
+        "address": "42310 Thunderball Dr, Ashburn, VA 20148",
+        "geocoded_address": "42310 THUNDERBALL DR, 42310, Thunderball Drive, True North Data Centers, Leesburg, Loudoun County, Virginia, 20175, United States"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.5397267,
+          39.0441987
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Amazon AWS IAD - 21271 Smith",
+        "company": "Amazon AWS",
+        "street": "21271 Smith Switch Rd",
+        "city": "Ashburn",
+        "zip": "20147",
+        "address": "21271 Smith Switch Rd, Ashburn, VA 20147",
+        "geocoded_address": "Amazon IAD71, 21271, Smith Switch Road, Ashburn, Loudoun County, Virginia, 20147, United States"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.4574971,
+          39.0279127
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Microsoft - 41700 Inclusion Ln (IAD6)",
+        "company": "Microsoft",
+        "street": "41700 Inclusion Ln",
+        "city": "Leesburg",
+        "zip": "20175",
+        "address": "41700 Inclusion Ln, Leesburg, VA 20175",
+        "geocoded_address": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": []
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Amazon AWS IAD - 20935 Loudoun",
+        "company": "Amazon AWS",
+        "street": "20935 Loudoun County Pkwy",
+        "city": "Ashburn",
+        "zip": "20147",
+        "address": "20935 Loudoun County Pkwy, Ashburn, VA 20147",
+        "geocoded_address": "Loudoun County Parkway, University Center, Loudoun County, Virginia, 20417, United States"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.4511258,
+          39.0495089
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "SDC Ashburn B",
+        "company": "Sabey Data Center Properties LLC",
+        "street": "21745 Red Rum",
+        "city": "Ashburn",
+        "zip": "20147",
+        "address": "21745 Red Rum, Ashburn, VA 20147",
+        "geocoded_address": "21745, Red Rum Drive, Loudoun County, Virginia, 20147, United States"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.4809364,
+          39.016815
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Amazon AWS IAD - 21267 Smith",
+        "company": "Amazon AWS",
+        "street": "21267 Smith Switch Rd",
+        "city": "Ashburn",
+        "zip": "20147",
+        "address": "21267 Smith Switch Rd, Ashburn, VA 20147",
+        "geocoded_address": "Amazon IAD-60, 21267, Smith Switch Road, Ashburn, Loudoun County, Virginia, 20147, United States"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.4582461,
+          39.0287737
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Amazon AWS IAD - Smith Campus",
+        "company": "Amazon AWS",
+        "street": "21263-21271 Smith Switch Rd",
+        "city": "Ashburn",
+        "zip": "20147",
+        "address": "21263-21271 Smith Switch Rd, Ashburn, VA 20147",
+        "geocoded_address": "Amazon IAD50, 21263, Smith Switch Road, Ashburn, Loudoun County, Virginia, 20147, United States"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.4596651,
+          39.0295775
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Compass Loudoun County I - E",
+        "company": "Compass Datacenters",
+        "street": "42590 Thunderball Dr",
+        "city": "Ashburn",
+        "zip": "20148",
+        "address": "42590 Thunderball Dr, Ashburn, VA 20148",
+        "geocoded_address": "Thunderball Drive, True North Data Centers, Loudoun County, Virginia, United States"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.5406926,
+          39.0420367
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Compass Loudoun County I - C",
+        "company": "Compass Datacenters",
+        "street": "42251 Thunderball Dr",
+        "city": "Ashburn",
+        "zip": "20148",
+        "address": "42251 Thunderball Dr, Ashburn, VA 20148",
+        "geocoded_address": "Thunderball Drive, True North Data Centers, Loudoun County, Virginia, United States"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.5406926,
+          39.0420367
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Amazon AWS IAD - 44862 Interconnection",
+        "company": "Amazon AWS",
+        "street": "44862 Interconnection Plz",
+        "city": "Ashburn",
+        "zip": "20147",
+        "address": "44862 Interconnection Plz, Ashburn, VA 20147",
+        "geocoded_address": "Amazon IAD80, 44862, Interconnection Plaza, Ashburn, Loudoun County, Virginia, 20147, United States"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.4528289,
+          39.0271087
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "NTT Ashburn VA6",
+        "company": "NTT Global Data Centers",
+        "street": "44495 Gigabit Plaza",
+        "city": "Ashburn",
+        "zip": "20147",
+        "address": "44495 Gigabit Plz, Ashburn, VA 20147",
+        "geocoded_address": "Gigabit Plaza, NTT Ashburn Campus, Ashburn, Loudoun County, Virginia, 20174, United States"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.4701507,
+          39.0183367
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "STACK Infrastructure Loudoun County - Building 2",
+        "company": "STACK INFRASTRUCTURE",
+        "street": "Evergreen Mills Rd",
+        "city": "Ashburn",
+        "zip": "20148",
+        "address": "Evergreen Mills Rd, Ashburn, VA 20148",
+        "geocoded_address": "Evergreen Mills Road, Brambleton, Loudoun County, Virginia, 20148, United States"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.5188963,
+          38.9595046
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "STACK Infrastructure Loudoun County Campus",
+        "company": "STACK INFRASTRUCTURE",
+        "street": "Evergreen Mills Rd",
+        "city": "Ashburn",
+        "zip": "20148",
+        "address": "Evergreen Mills Rd, Ashburn, VA 20148",
+        "geocoded_address": "Evergreen Mills Road, Brambleton, Loudoun County, Virginia, 20148, United States"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.5188963,
+          38.9595046
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "STACK Infrastructure Loudoun County - Building 1",
+        "company": "STACK INFRASTRUCTURE",
+        "street": "Evergreen Mills Rd",
+        "city": "Ashburn",
+        "zip": "20148",
+        "address": "Evergreen Mills Rd, Ashburn, VA 20148",
+        "geocoded_address": "Evergreen Mills Road, Brambleton, Loudoun County, Virginia, 20148, United States"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.5188963,
+          38.9595046
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "19886 Ashburn Rd",
+        "company": "JK Land Holdings",
+        "street": "19886 Ashburn Rd",
+        "city": "Ashburn",
+        "zip": "20147",
+        "address": "19886 Ashburn Rd, Ashburn, VA 20147",
+        "geocoded_address": "Telos Corporation, 19886, Ashburn Road, Ashburn, Loudoun County, Virginia, 20147, United States"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.4789304,
+          39.06657
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "CyrusOne Broadlands - Building 3",
+        "company": "CyrusOne Data Centers",
+        "street": "Education Ct / Broadlands Blvd",
+        "city": "Broadlands",
+        "zip": "20148",
+        "address": "Education Ct / Broadlands Blvd, Broadlands, VA 20148",
+        "geocoded_address": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": []
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "CyrusOne Broadlands - Building 4",
+        "company": "CyrusOne Data Centers",
+        "street": "Education Ct / Broadlands Blvd",
+        "city": "Broadlands",
+        "zip": "20148",
+        "address": "Education Ct / Broadlands Blvd, Broadlands, VA 20148",
+        "geocoded_address": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": []
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "CyrusOne Broadlands Campus",
+        "company": "CyrusOne Data Centers",
+        "street": "Education Ct / Broadlands Blvd",
+        "city": "Broadlands",
+        "zip": "20148",
+        "address": "Education Ct / Broadlands Blvd, Broadlands, VA 20148",
+        "geocoded_address": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": []
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Tuscarora Crossing Campus",
+        "company": "The BlackChamber Group",
+        "street": "Crosstrail Blvd",
+        "city": "Leesburg",
+        "zip": "20175",
+        "address": "Crosstrail Blvd, Leesburg, VA 20175",
+        "geocoded_address": "Crosstrail Boulevard, Leesburg, Loudoun County, Virginia, 20176, United States"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.5232714,
+          39.0849973
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "CyrusOne Broadlands - Building 1",
+        "company": "CyrusOne Data Centers",
+        "street": "Education Ct / Broadlands Blvd",
+        "city": "Broadlands",
+        "zip": "20148",
+        "address": "Education Ct / Broadlands Blvd, Broadlands, VA 20148",
+        "geocoded_address": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": []
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Tuscarora Crossing Bldg 2",
+        "company": "The BlackChamber Group",
+        "street": "Crosstrail Blvd",
+        "city": "Leesburg",
+        "zip": "20175",
+        "address": "Crosstrail Blvd, Leesburg, VA 20175",
+        "geocoded_address": "Crosstrail Boulevard, Leesburg, Loudoun County, Virginia, 20176, United States"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.5232714,
+          39.0849973
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Tuscarora Crossing Bldg 3",
+        "company": "The BlackChamber Group",
+        "street": "Crosstrail Blvd",
+        "city": "Leesburg",
+        "zip": "20175",
+        "address": "Crosstrail Blvd, Leesburg, VA 20175",
+        "geocoded_address": "Crosstrail Boulevard, Leesburg, Loudoun County, Virginia, 20176, United States"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.5232714,
+          39.0849973
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "CyrusOne Broadlands - Building 2",
+        "company": "CyrusOne Data Centers",
+        "street": "Education Ct / Broadlands Blvd",
+        "city": "Broadlands",
+        "zip": "20148",
+        "address": "Education Ct / Broadlands Blvd, Broadlands, VA 20148",
+        "geocoded_address": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": []
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Tuscarora Crossing Bldg 1",
+        "company": "The BlackChamber Group",
+        "street": "Crosstrail Blvd",
+        "city": "Leesburg",
+        "zip": "20175",
+        "address": "Crosstrail Blvd, Leesburg, VA 20175",
+        "geocoded_address": "Crosstrail Boulevard, Leesburg, Loudoun County, Virginia, 20176, United States"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.5232714,
+          39.0849973
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "43704 Efficiency (IAD44)",
+        "company": "Digital Realty",
+        "street": "43704 Efficiency Dr",
+        "city": "Sterling",
+        "zip": "20166",
+        "address": "43704 Efficiency Dr, Sterling, VA 20166",
+        "geocoded_address": "Digital Realty Northern Virginia IAD44, 43704, Efficiency Drive, Carters, Sterling, Loudoun County, Virginia, 20166, United States"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.4917183,
+          38.9613131
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "44820 Prentice (IAD43)",
+        "company": "Digital Realty",
+        "street": "44820 Prentice Dr",
+        "city": "Sterling",
+        "zip": "20166",
+        "address": "44820 Prentice Dr, Sterling, VA 20166",
+        "geocoded_address": "44820, Prentice Drive, Loudoun County, Virginia, 20166, United States"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.4534421,
+          39.0010942
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "22574 Pacific Blvd (IAD55)",
+        "company": "Digital Realty",
+        "street": "22574 Pacific Blvd",
+        "city": "Sterling",
+        "zip": "20166",
+        "address": "22574 Pacific Blvd, Sterling, VA 20166",
+        "geocoded_address": "Pacific Boulevard, Sterling, Loudoun County, Virginia, 20166, United States"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.434409,
+          38.9797061
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "CyrusOne NVA9 - Sterling",
+        "company": "CyrusOne Data Centers",
+        "street": "43290 Old Ox Road",
+        "city": "Sterling",
+        "zip": "20166",
+        "address": "43290 Old Ox Rd, Sterling, VA 20166",
+        "geocoded_address": "Old Ox Road, Oak Grove, Loudoun County, Virginia, 20166, United States"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.4196134,
+          38.9782043
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "CyrusOne NVA8 - Sterling",
+        "company": "CyrusOne Data Centers",
+        "street": "45905 Maries Road",
+        "city": "Sterling",
+        "zip": "20166",
+        "address": "45905 Maries Rd, Sterling, VA 20166",
+        "geocoded_address": "CyrusOne NVA8, 45905, Maries Road, Sterling, Loudoun County, Virginia, 20166, United States"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.4132118,
+          39.0211761
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "CyrusOne NVA5 - Sterling",
+        "company": "CyrusOne Data Centers",
+        "street": "21350 Pacific Blvd.",
+        "city": "Sterling",
+        "zip": "20166",
+        "address": "21350 Pacific Blvd., Sterling, VA 20166",
+        "geocoded_address": "CyrusOne NVA5, 21350, Pacific Boulevard, Sterling, Loudoun County, Virginia, 20166, United States"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.4341,
+          39.0241204
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "CyrusOne Virginia Campus",
+        "company": "CyrusOne Data Centers",
+        "street": "21111 Ridgetop Circle",
+        "city": "Sterling",
+        "zip": "20166",
+        "address": "21111 Ridgetop Cir, Sterling, VA 20166",
+        "geocoded_address": "CyrusOne NVA1, NVA2 & NVA3, 21111, Ridgetop Circle, Sterling, Loudoun County, Virginia, 20166, United States"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.4145789,
+          39.0259287
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "CyrusOne NVA7 - Sterling",
+        "company": "CyrusOne Data Centers",
+        "street": "21350 Pacific Blvd.",
+        "city": "Sterling",
+        "zip": "20166",
+        "address": "21350 Pacific Blvd., Sterling, VA 20166",
+        "geocoded_address": "CyrusOne NVA5, 21350, Pacific Boulevard, Sterling, Loudoun County, Virginia, 20166, United States"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.4341,
+          39.0241204
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "CyrusOne NVA4 - Sterling",
+        "company": "CyrusOne Data Centers",
+        "street": "22811 International Drive",
+        "city": "Sterling",
+        "zip": "20116",
+        "address": "22811 International Dr, Sterling, VA 20116",
+        "geocoded_address": "22811, International Drive, Sterling, Loudoun County, Virginia, 20166, United States"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.4242505,
+          38.9856194
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "QTS Ashburn-Moran DC2",
+        "company": "QTS Data Centers",
+        "street": "44874 Moran Road",
+        "city": "Sterling",
+        "zip": "20166",
+        "address": "44874 Moran Rd, Sterling, VA 20166",
+        "geocoded_address": "Moran Road, Sterling, Loudoun County, Virginia, 20103, United States"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.4372508,
+          38.9993362
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Centersquare - Sterling IAD1-C",
+        "company": "Centersquare",
+        "street": "21110 Ridgetop Circle",
+        "city": "Sterling",
+        "zip": "20166",
+        "address": "21110 Ridgetop Cir, Sterling, VA 20166",
+        "geocoded_address": "Cyxtera Sterling IAD1-C, 21110, Ridgetop Circle, Sterling, Loudoun County, Virginia, 20166, United States"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.4122044,
+          39.0247522
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Centersquare - Sterling IAD2-A",
+        "company": "Centersquare",
+        "street": "22810 International Dr",
+        "city": "Sterling",
+        "zip": "20166",
+        "address": "22810 International Dr, Sterling, VA 20166",
+        "geocoded_address": "Cyxtera IAD2-A, 22810, International Drive, Sterling, Loudoun County, Virginia, 20166, United States"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.4238278,
+          38.9843956
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Centersquare - Sterling IAD1-A",
+        "company": "Centersquare",
+        "street": "45901 Nokes Blvd.",
+        "city": "Sterling",
+        "zip": "20166",
+        "address": "45901 Nokes Blvd., Sterling, VA 20166",
+        "geocoded_address": "Cyxtera Sterling IAD1-A, 45901, Nokes Boulevard, Sterling, Loudoun County, Virginia, 20166, United States"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.4132159,
+          39.0232985
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Centersquare - Sterling IAD3-A",
+        "company": "Centersquare",
+        "street": "22995 Wilder Ct",
+        "city": "Sterling",
+        "zip": "20166",
+        "address": "22995 Wilder Ct, Sterling, VA 20166",
+        "geocoded_address": "22995, Wilder Court, Loudoun County, Virginia, 20166, United States"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.4438245,
+          38.9796783
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "EdgeCore Ashburn AS02",
+        "company": "EdgeCore",
+        "street": "1501 Moran Rd",
+        "city": "Sterling",
+        "zip": "20166",
+        "address": "1501 Moran Rd, Sterling, VA 20166",
+        "geocoded_address": "Moran Road, Sterling, Loudoun County, Virginia, 20103, United States"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.4372508,
+          38.9993362
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Skybox Nova One",
+        "company": "Skybox Datacenters",
+        "street": "22675 Dulles Summit",
+        "city": "Sterling",
+        "zip": "20166",
+        "address": "22675 Dulles Summit, Sterling, VA 20166",
+        "geocoded_address": "22675, Dulles Summit Court, Loudoun County, Virginia, 20166, United States"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.4487691,
+          38.9886013
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "CyrusOne NVA1 - Sterling",
+        "company": "CyrusOne Data Centers",
+        "street": "21111 Ridgetop Cir",
+        "city": "Sterling",
+        "zip": "20166",
+        "address": "21111 Ridgetop Cir, Sterling, VA 20166",
+        "geocoded_address": "CyrusOne NVA1, NVA2 & NVA3, 21111, Ridgetop Circle, Sterling, Loudoun County, Virginia, 20166, United States"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.4145789,
+          39.0259287
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Centersquare - Sterling IAD2-B",
+        "company": "Centersquare",
+        "street": "22860 International Dr",
+        "city": "Sterling",
+        "zip": "20166",
+        "address": "22860 International Dr, Sterling, VA 20166",
+        "geocoded_address": "Cyxtera IAD2-B, 22860, International Drive, Sterling, Loudoun County, Virginia, 20166, United States"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.4239243,
+          38.9835026
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "QTS Ashburn 1 DC1",
+        "company": "QTS Data Centers",
+        "street": "22271 Broderick Drive",
+        "city": "Sterling",
+        "zip": "20166",
+        "address": "22271 Broderick Dr, Sterling, VA 20166",
+        "geocoded_address": "QTS Ashburn 1, 22271, Broderick Drive, Sterling, Loudoun County, Virginia, 20166, United States"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.4501392,
+          38.9996134
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Centersquare - Sterling IAD1-B",
+        "company": "Centersquare",
+        "street": "45845 Nokes Blvd",
+        "city": "Sterling",
+        "zip": "20166",
+        "address": "45845 Nokes Blvd, Sterling, VA 20166",
+        "geocoded_address": "Cyxtera Sterling IAD1-B, 45845, Nokes Boulevard, Sterling, Loudoun County, Virginia, 20166, United States"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.4148382,
+          39.0238682
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Corscale Kincora",
+        "company": "Corscale",
+        "street": "Russel Branch Parkway",
+        "city": "Sterling",
+        "zip": "20166",
+        "address": "Russel Branch Pkwy, Sterling, VA 20166",
+        "geocoded_address": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": []
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Vantage VA2 - Ashburn II Campus",
+        "company": "Vantage Data Centers",
+        "street": "22318 Glenn Drive",
+        "city": "Sterling",
+        "zip": "20164",
+        "address": "22318 Glenn Dr, Sterling, VA 20164",
+        "geocoded_address": "22318, Glenn Drive, Sterling, Loudoun County, Virginia, 20164, United States"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.4281006,
+          38.997783
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Vantage VA1 - Ashburn I Campus",
+        "company": "Vantage Data Centers",
+        "street": "Vantage Data Plaza",
+        "city": "Sterling",
+        "zip": "20166",
+        "address": "Vantage Data Plz, Sterling, VA 20166",
+        "geocoded_address": "Vantage VA11, 45200, Vantage Data Plaza, Vantage Ashburn Campus, Sterling, Loudoun County, Virginia, 20166, United States"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.4376872,
+          39.0023685
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Aligned IAD-03",
+        "company": "Aligned Data Centers",
+        "street": "22715 Relocation Drive",
+        "city": "Sterling",
+        "zip": "20166",
+        "address": "22715 Relocation Dr, Sterling, VA 20166",
+        "geocoded_address": "Relocation Drive, Sterling, Loudoun County, Virginia, 20103, United States"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.4348094,
+          38.9939741
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Maries Tech Park",
+        "company": "COPT Defense Properties",
+        "street": "45761-45781 Maries Rd, Maries Tech Park",
+        "city": "Sterling",
+        "zip": "20166",
+        "address": "45761-45781 Maries Rd, Maries Tech Park, Sterling, VA 20166",
+        "geocoded_address": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": []
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Amazon AWS IAD - Relocation Campus",
+        "company": "Amazon AWS",
+        "street": "22745-22755 Relocation Dr",
+        "city": "Sterling",
+        "zip": "20166",
+        "address": "22745-22755 Relocation Dr, Sterling, VA 20166",
+        "geocoded_address": "Relocation Drive, Sterling, Loudoun County, Virginia, 20103, United States"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.4348094,
+          38.9939741
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Amazon AWS IAD - Charles View Campus",
+        "company": "Amazon AWS",
+        "street": "21641-21710 Charles View Dr",
+        "city": "Sterling",
+        "zip": "20166",
+        "address": "21641-21710 Charles View Dr, Sterling, VA 20166",
+        "geocoded_address": "Charles View Drive, Loudoun County, Virginia, 29166, United States"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.43743,
+          39.017898
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Microsoft - 42010 Growth Mindset Ln",
+        "company": "Microsoft",
+        "street": "42010 Growth Mindset Ln",
+        "city": "Aldie",
+        "zip": "20105",
+        "address": "42010 Growth Mindset Ln, Aldie, VA 20105",
+        "geocoded_address": "Growth Mindset Lane, Arcola Tech Park, Loudoun County, Virginia, 20105, United States"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.5582825,
+          38.9460836
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Amazon AWS IAD - Erins Run Campus",
+        "company": "Amazon AWS",
+        "street": "23825-23845 Erins Run Dr",
+        "city": "Sterling",
+        "zip": "20166",
+        "address": "23825-23845 Erins Run Dr, Sterling, VA 20166",
+        "geocoded_address": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": []
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Amazon AWS - 45965-45975 Nokes Blvd",
+        "company": "Amazon AWS",
+        "street": "45965-45975 Nokes Blvd",
+        "city": "Sterling",
+        "zip": "20166",
+        "address": "45965-45975 Nokes Blvd, Sterling, VA 20166",
+        "geocoded_address": "45965, Nokes Boulevard, Sterling, Loudoun County, Virginia, 20166, United States"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.412081,
+          39.023586
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Amazon AWS IAD - Atlantic Blvd Campus",
+        "company": "Amazon AWS",
+        "street": "21195-21215 Atlantic Blvd",
+        "city": "Sterling",
+        "zip": "20166",
+        "address": "21195-21215 Atlantic Blvd, Sterling, VA 20166",
+        "geocoded_address": "Atlantic Boulevard, Dulles Eastern Plaza, Dulles Town Center, Loudoun County, Virginia, 20166, United States"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.427186,
+          39.0174946
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Amazon AWS - 46020 Manekin Plaza",
+        "company": "Amazon AWS",
+        "street": "46000-46020 Manekin Plz",
+        "city": "Sterling",
+        "zip": "20166",
+        "address": "46000-46020 Manekin Plz, Sterling, VA 20166",
+        "geocoded_address": "46000, Manekin Plaza, Sterling, Loudoun County, Virginia, 20166, United States"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.4067448,
+          39.0236101
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Microsoft Growth Mindset Campus",
+        "company": "Microsoft",
+        "street": "41840-42010 Growth Mindset Ln",
+        "city": "Aldie",
+        "zip": "20105",
+        "address": "41840-42010 Growth Mindset Ln, Aldie, VA 20105",
+        "geocoded_address": "Growth Mindset Lane, Arcola Tech Park, Loudoun County, Virginia, 20105, United States"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.5582825,
+          38.9460836
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Microsoft - 41840 Growth Mindset Ln",
+        "company": "Microsoft",
+        "street": "41840 Growth Mindset Ln",
+        "city": "Aldie",
+        "zip": "20105",
+        "address": "41840 Growth Mindset Ln, Aldie, VA 20105",
+        "geocoded_address": "Growth Mindset Lane, Arcola Tech Park, Loudoun County, Virginia, 20105, United States"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.5582825,
+          38.9460836
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Microsoft - 42031 Growth Mindset Ln",
+        "company": "Microsoft",
+        "street": "42031 Growth Mindset Ln",
+        "city": "Aldie",
+        "zip": "20105",
+        "address": "42031 Growth Mindset Ln, Aldie, VA 20105",
+        "geocoded_address": "Growth Mindset Lane, Arcola Tech Park, Loudoun County, Virginia, 20105, United States"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.5582825,
+          38.9460836
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Google Arcola Campus",
+        "company": "Google",
+        "street": "24400 Howling Rooster Ln",
+        "city": "Sterling",
+        "zip": "20166",
+        "address": "24400 Howling Rooster Ln, Sterling, VA 20166",
+        "geocoded_address": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": []
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "CyrusOne NVA2 - Sterling",
+        "company": "CyrusOne Data Centers",
+        "street": "21111 Ridgetop Circle",
+        "city": "Sterling",
+        "zip": "20166",
+        "address": "21111 Ridgetop Cir, Sterling, VA 20166",
+        "geocoded_address": "CyrusOne NVA1, NVA2 & NVA3, 21111, Ridgetop Circle, Sterling, Loudoun County, Virginia, 20166, United States"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.4145789,
+          39.0259287
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "CyrusOne NVA3 - Sterling",
+        "company": "CyrusOne Data Centers",
+        "street": "21111 Ridgetop Circle",
+        "city": "Sterling",
+        "zip": "20166",
+        "address": "21111 Ridgetop Cir, Sterling, VA 20166",
+        "geocoded_address": "CyrusOne NVA1, NVA2 & NVA3, 21111, Ridgetop Circle, Sterling, Loudoun County, Virginia, 20166, United States"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.4145789,
+          39.0259287
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "PointOne Ashburn Data Center Campus",
+        "company": "PointOne",
+        "street": "21995 Railcar Dr",
+        "city": "Sterling",
+        "zip": "20164",
+        "address": "21995 Railcar Dr, Sterling, VA 20164",
+        "geocoded_address": "Railcar Drive, Sterling, Loudoun County, Virginia, 20103, United States"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.431177,
+          39.0068114
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "PointOne Sterling",
+        "company": "PointOne",
+        "street": "45449 E Severn Way",
+        "city": "Sterling",
+        "zip": "20166",
+        "address": "45449 E Severn Way, Sterling, VA 20166",
+        "geocoded_address": "45449, East Severn Way, Dulles Town Center, Loudoun County, Virginia, 20166, United States"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.4266632,
+          39.0206534
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Vantage VA11",
+        "company": "Vantage Data Centers",
+        "street": "45200 Vantage Data Plaza",
+        "city": "Sterling",
+        "zip": "20166",
+        "address": "45200 Vantage Data Plz, Sterling, VA 20166",
+        "geocoded_address": "Vantage VA11, 45200, Vantage Data Plaza, Vantage Ashburn Campus, Sterling, Loudoun County, Virginia, 20166, United States"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.4376872,
+          39.0023685
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Vantage VA15",
+        "company": "Vantage Data Centers",
+        "street": "Vantage Data Plaza",
+        "city": "Sterling",
+        "zip": "20166",
+        "address": "Vantage Data Plz, Sterling, VA 20166",
+        "geocoded_address": "Vantage VA11, 45200, Vantage Data Plaza, Vantage Ashburn Campus, Sterling, Loudoun County, Virginia, 20166, United States"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.4376872,
+          39.0023685
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Amazon AWS IAD - 22630 Dulles",
+        "company": "Amazon AWS",
+        "street": "22630 Dulles Summit Ct",
+        "city": "Sterling",
+        "zip": "20166",
+        "address": "22630 Dulles Summit Ct, Sterling, VA 20166",
+        "geocoded_address": "Amazon IAD-12, 22630, Dulles Summit Court, Sterling, Loudoun County, Virginia, 20166, United States"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.4476619,
+          38.9887242
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Amazon AWS IAD - 22760 Pacific",
+        "company": "Amazon AWS",
+        "street": "22760 Pacific Blvd",
+        "city": "Sterling",
+        "zip": "20166",
+        "address": "22760 Pacific Blvd, Sterling, VA 20166",
+        "geocoded_address": "Pacific Boulevard, Sterling, Loudoun County, Virginia, 20166, United States"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.434409,
+          38.9797061
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Amazon AWS IAD - 22745 Relocation",
+        "company": "Amazon AWS",
+        "street": "22745 Relocation Dr",
+        "city": "Sterling",
+        "zip": "20166",
+        "address": "22745 Relocation Dr, Sterling, VA 20166",
+        "geocoded_address": "Relocation Drive, Sterling, Loudoun County, Virginia, 20103, United States"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.4348094,
+          38.9939741
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Amazon AWS IAD - 21215 Atlantic Blvd",
+        "company": "Amazon AWS",
+        "street": "21215 Atlantic Blvd",
+        "city": "Sterling",
+        "zip": "20166",
+        "address": "21215 Atlantic Blvd, Sterling, VA 20166",
+        "geocoded_address": "Atlantic Boulevard, Dulles Eastern Plaza, Dulles Town Center, Loudoun County, Virginia, 20166, United States"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.427186,
+          39.0174946
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Amazon AWS IAD - 45110 Loudoun",
+        "company": "Amazon AWS",
+        "street": "45110 Loudoun Downs Ln",
+        "city": "Sterling",
+        "zip": "20166",
+        "address": "45110 Loudoun Downs Ln, Sterling, VA 20166",
+        "geocoded_address": "Loudoun Downs Lane, Loudoun County, Virginia, 20166, United States"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.4394959,
+          38.9900124
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "23540 Pebble Run Pl",
+        "company": "Microsoft",
+        "street": "23540 Pebble Run Pl",
+        "city": "Sterling",
+        "zip": "20166",
+        "address": "23540 Pebble Run Pl, Sterling, VA 20166",
+        "geocoded_address": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": []
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Vantage VA14",
+        "company": "Vantage Data Centers",
+        "street": "Vantage Data Plaza",
+        "city": "Sterling",
+        "zip": "20166",
+        "address": "Vantage Data Plz, Sterling, VA 20166",
+        "geocoded_address": "Vantage VA11, 45200, Vantage Data Plaza, Vantage Ashburn Campus, Sterling, Loudoun County, Virginia, 20166, United States"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.4376872,
+          39.0023685
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Amazon AWS IAD - Prologis Campus",
+        "company": "Amazon AWS",
+        "street": "45210-45220 Prologis Plz",
+        "city": "Sterling",
+        "zip": "20166",
+        "address": "45210-45220 Prologis Plz, Sterling, VA 20166",
+        "geocoded_address": "45210, Prologis Plaza, Loudoun County, Virginia, 20166, United States"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.4380129,
+          38.988375
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Amazon AWS IAD - 45259 Severn",
+        "company": "Amazon AWS",
+        "street": "45259 West Severn Way",
+        "city": "Sterling",
+        "zip": "45259",
+        "address": "45259 West Severn Way, Sterling, VA 45259",
+        "geocoded_address": "West Severn Way, Dulles Town Center, Loudoun County, Virginia, 29166, United States"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.4346257,
+          39.0208385
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Prologis 45120 Global Plaza",
+        "company": "Prologis",
+        "street": "45120 Global Plaza",
+        "city": "Sterling",
+        "zip": "20166",
+        "address": "45120 Global Plz, Sterling, VA 20166",
+        "geocoded_address": "45120, Global Plaza, Loudoun County, Virginia, 20166, United States"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.4395395,
+          38.9868437
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Amazon AWS IAD - Dulles Campus",
+        "company": "Amazon AWS",
+        "street": "22630-22651 Dulles Summit Ct",
+        "city": "Sterling",
+        "zip": "20166",
+        "address": "22630-22651 Dulles Summit Ct, Sterling, VA 20166",
+        "geocoded_address": "Amazon IAD-12, 22630, Dulles Summit Court, Sterling, Loudoun County, Virginia, 20166, United States"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.4476619,
+          38.9887242
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Amazon AWS IAD - 21641 Charles View",
+        "company": "Amazon AWS",
+        "street": "21641 Charles View Dr",
+        "city": "Sterling",
+        "zip": "20166",
+        "address": "21641 Charles View Dr, Sterling, VA 20166",
+        "geocoded_address": "Charles View Drive, Loudoun County, Virginia, 29166, United States"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.43743,
+          39.017898
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "QTS Ashburn-Lockridge DC1",
+        "company": "QTS Data Centers",
+        "street": "44675 Quality Tech Lane",
+        "city": "Sterling",
+        "zip": "20166",
+        "address": "44675 Quality Tech Ln, Sterling, VA 20166",
+        "geocoded_address": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": []
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Amazon AWS IAD - 22755 Relocation",
+        "company": "Amazon AWS",
+        "street": "22755 Relocation Dr",
+        "city": "Sterling",
+        "zip": "20166",
+        "address": "22755 Relocation Dr, Sterling, VA 20166",
+        "geocoded_address": "Relocation Drive, Sterling, Loudoun County, Virginia, 20103, United States"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.4348094,
+          38.9939741
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Amazon AWS IAD - Severn & Squire Campus",
+        "company": "Amazon AWS",
+        "street": "Squire Ct / West Severn Way",
+        "city": "Sterling",
+        "zip": "45259",
+        "address": "Squire Ct / West Severn Way, Sterling, VA 45259",
+        "geocoded_address": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": []
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Amazon AWS IAD - 1304 Squire",
+        "company": "Amazon AWS",
+        "street": "1304 Squire Ct",
+        "city": "Sterling",
+        "zip": "20166",
+        "address": "1304 Squire Ct, Sterling, VA 20166",
+        "geocoded_address": "Amazon IAD32, 1304, Squire Court, Sterling, Loudoun County, Virginia, 20166, United States"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.4347945,
+          39.0215694
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Amazon AWS IAD - 22868 International",
+        "company": "Amazon AWS",
+        "street": "22868 International Dr",
+        "city": "Sterling",
+        "zip": "20166",
+        "address": "22868 International Dr, Sterling, VA 20166",
+        "geocoded_address": "22868, International Drive, Sterling, Loudoun County, Virginia, 20166, United States"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.4244866,
+          38.9849783
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Amazon AWS IAD - 22945 International",
+        "company": "Amazon AWS",
+        "street": "22945 International Dr",
+        "city": "Sterling",
+        "zip": "20166",
+        "address": "22945 International Dr, Sterling, VA 20166",
+        "geocoded_address": "Amazon IAD144, 22945, International Drive, Sterling, Loudoun County, Virginia, 20166, United States"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.4273694,
+          38.9815821
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "COPT MP-2",
+        "company": "COPT Defense Properties",
+        "street": "45771 Maries Rd, Maries Tech Park",
+        "city": "Sterling",
+        "zip": "20166",
+        "address": "45771 Maries Rd, Maries Tech Park, Sterling, VA 20166",
+        "geocoded_address": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": []
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Amazon AWS IAD - 21710 Charles View",
+        "company": "Amazon AWS",
+        "street": "21710 Charles View Dr",
+        "city": "Sterling",
+        "zip": "20166",
+        "address": "21710 Charles View Dr, Sterling, VA 20166",
+        "geocoded_address": "Charles View Drive, Loudoun County, Virginia, 29166, United States"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.43743,
+          39.017898
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Amazon AWS IAD - International Campus",
+        "company": "Amazon AWS",
+        "street": "22868-22945 International Dr",
+        "city": "Sterling",
+        "zip": "20166",
+        "address": "22868-22945 International Dr, Sterling, VA 20166",
+        "geocoded_address": "22868, International Drive, Sterling, Loudoun County, Virginia, 20166, United States"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.4244866,
+          38.9849783
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Vantage VA22",
+        "company": "Vantage Data Centers",
+        "street": "22318 Glenn Drive",
+        "city": "Sterling",
+        "zip": "20164",
+        "address": "22318 Glenn Dr, Sterling, VA 20164",
+        "geocoded_address": "22318, Glenn Drive, Sterling, Loudoun County, Virginia, 20164, United States"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.4281006,
+          38.997783
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Amazon AWS IAD - 23835 Erins",
+        "company": "Amazon AWS",
+        "street": "23835 Erins Run Dr",
+        "city": "Sterling",
+        "zip": "20166",
+        "address": "23835 Erins Run Dr, Sterling, VA 20166",
+        "geocoded_address": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": []
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Amazon AWS IAD - 23845 Erins",
+        "company": "Amazon AWS",
+        "street": "23845 Erins Run Dr",
+        "city": "Sterling",
+        "zip": "20166",
+        "address": "23845 Erins Run Dr, Sterling, VA 20166",
+        "geocoded_address": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": []
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Amazon AWS IAD - 23825 Erins",
+        "company": "Amazon AWS",
+        "street": "23825 Erins Run Dr",
+        "city": "Sterling",
+        "zip": "20166",
+        "address": "23825 Erins Run Dr, Sterling, VA 20166",
+        "geocoded_address": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": []
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Amazon AWS IAD - 21645 Charles View",
+        "company": "Amazon AWS",
+        "street": "21645 Charles View Dr",
+        "city": "Sterling",
+        "zip": "20166",
+        "address": "21645 Charles View Dr, Sterling, VA 20166",
+        "geocoded_address": "Charles View Drive, Loudoun County, Virginia, 29166, United States"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.43743,
+          39.017898
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Amazon AWS IAD - 21205 Atlantic Blvd",
+        "company": "Amazon AWS",
+        "street": "21205 Atlantic Blvd",
+        "city": "Sterling",
+        "zip": "20166",
+        "address": "21205 Atlantic Blvd, Sterling, VA 20166",
+        "geocoded_address": "Atlantic Boulevard, Dulles Eastern Plaza, Dulles Town Center, Loudoun County, Virginia, 20166, United States"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.427186,
+          39.0174946
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "COPT MP-3",
+        "company": "COPT Defense Properties",
+        "street": "45781 Maries Rd, Maries Tech Park",
+        "city": "Sterling",
+        "zip": "20166",
+        "address": "45781 Maries Rd, Maries Tech Park, Sterling, VA 20166",
+        "geocoded_address": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": []
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Windstream Sterling",
+        "company": "Windstream",
+        "street": "21376 Potomac View Rd",
+        "city": "Sterling",
+        "zip": "20164",
+        "address": "21376 Potomac View Rd, Sterling, VA 20164",
+        "geocoded_address": "Verizon, 21376, Potomac View Road, Sterling, Loudoun County, Virginia, 20164, United States"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.3922295,
+          39.02374
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Amazon AWS IAD - 22631 Dulles",
+        "company": "Amazon AWS",
+        "street": "22631 Dulles Summit Ct",
+        "city": "Sterling",
+        "zip": "20166",
+        "address": "22631 Dulles Summit Ct, Sterling, VA 20166",
+        "geocoded_address": "Amazon IAD-15, 22631, Dulles Summit Court, Sterling, Loudoun County, Virginia, 20166, United States"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.4487061,
+          38.9917374
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Amazon AWS IAD - 45111 Loudoun",
+        "company": "Amazon AWS",
+        "street": "45111 Loudoun Downs Ln",
+        "city": "Sterling",
+        "zip": "20166",
+        "address": "45111 Loudoun Downs Ln, Sterling, VA 20166",
+        "geocoded_address": "Loudoun Downs Lane, Loudoun County, Virginia, 20166, United States"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.4394959,
+          38.9900124
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Amazon AWS IAD - 22651 Dulles",
+        "company": "Amazon AWS",
+        "street": "22651 Dulles Summit Ct",
+        "city": "Sterling",
+        "zip": "20166",
+        "address": "22651 Dulles Summit Ct, Sterling, VA 20166",
+        "geocoded_address": "Amazon IAD-16, 22651, Dulles Summit Court, Sterling, Loudoun County, Virginia, 20166, United States"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.4488816,
+          38.9907299
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Amazon AWS IAD - Loudoun Downs Campus",
+        "company": "Amazon AWS",
+        "street": "45110-45111 Loudoun Downs Ln",
+        "city": "Sterling",
+        "zip": "20166",
+        "address": "45110-45111 Loudoun Downs Ln, Sterling, VA 20166",
+        "geocoded_address": "Loudoun Downs Lane, Loudoun County, Virginia, 20166, United States"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.4394959,
+          38.9900124
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Vantage VA12",
+        "company": "Vantage Data Centers",
+        "street": "45194 Vantage Data Plaza",
+        "city": "Sterling",
+        "zip": "20166",
+        "address": "45194 Vantage Data Plz, Sterling, VA 20166",
+        "geocoded_address": "45194, Vantage Data Plaza, Vantage Ashburn Campus, Loudoun County, Virginia, 20166, United States"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.4380171,
+          39.0017865
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Vantage VA13",
+        "company": "Vantage Data Centers",
+        "street": "Vantage Data Plaza",
+        "city": "Sterling",
+        "zip": "20166",
+        "address": "Vantage Data Plz, Sterling, VA 20166",
+        "geocoded_address": "Vantage VA11, 45200, Vantage Data Plaza, Vantage Ashburn Campus, Sterling, Loudoun County, Virginia, 20166, United States"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.4376872,
+          39.0023685
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Amazon AWS IAD - 45210 Prologis",
+        "company": "Amazon AWS",
+        "street": "45210 Prologis Plaza",
+        "city": "Sterling",
+        "zip": "20166",
+        "address": "45210 Prologis Plz, Sterling, VA 20166",
+        "geocoded_address": "45210, Prologis Plaza, Loudoun County, Virginia, 20166, United States"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.4380129,
+          38.988375
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Amazon AWS IAD - Pathfinder Campus",
+        "company": "Amazon AWS",
+        "street": "45900-45950 Pathfinder Plz",
+        "city": "Sterling",
+        "zip": "20165",
+        "address": "45900-45950 Pathfinder Plz, Sterling, VA 20165",
+        "geocoded_address": "Amazon IAD90, 45900, Pathfinder Plaza, AWS, Sterling, Loudoun County, Virginia, 20166, United States"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.4116519,
+          38.9886028
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Google Arcola Data Center 1",
+        "company": "Google",
+        "street": "24400 Howling Rooster Ln",
+        "city": "Sterling",
+        "zip": "20166",
+        "address": "24400 Howling Rooster Ln, Sterling, VA 20166",
+        "geocoded_address": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": []
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Amazon AWS IAD - 45220 Prologis",
+        "company": "Amazon AWS",
+        "street": "45220 Prologis Plaza",
+        "city": "Sterling",
+        "zip": "20166",
+        "address": "45220 Prologis Plz, Sterling, VA 20166",
+        "geocoded_address": "45220, Prologis Plaza, Loudoun County, Virginia, 20166, United States"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.4379372,
+          38.9883449
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Google Arcola Data Center 2",
+        "company": "Google",
+        "street": "24400 Howling Rooster Ln",
+        "city": "Sterling",
+        "zip": "20166",
+        "address": "24400 Howling Rooster Ln, Sterling, VA 20166",
+        "geocoded_address": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": []
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Amazon AWS IAD - 21660 Charles View",
+        "company": "Amazon AWS",
+        "street": "21660 Charles View Dr",
+        "city": "Sterling",
+        "zip": "20166",
+        "address": "21660 Charles View Dr, Sterling, VA 20166",
+        "geocoded_address": "Charles View Drive, Loudoun County, Virginia, 29166, United States"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.43743,
+          39.017898
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Amazon AWS IAD - 45930 Pathfinder",
+        "company": "Amazon AWS",
+        "street": "45930 Pathfinder Plz",
+        "city": "Sterling",
+        "zip": "20165",
+        "address": "45930 Pathfinder Plz, Sterling, VA 20165",
+        "geocoded_address": "Amazon IAD91, 45930, Pathfinder Plaza, AWS, Sterling, Loudoun County, Virginia, 20166, United States"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.4111192,
+          38.9878472
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "COPT MP-1",
+        "company": "COPT Defense Properties",
+        "street": "45761 Maries Rd, Maries Tech Park",
+        "city": "Sterling",
+        "zip": "20166",
+        "address": "45761 Maries Rd, Maries Tech Park, Sterling, VA 20166",
+        "geocoded_address": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": []
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Vantage VA21",
+        "company": "Vantage Data Centers",
+        "street": "22318 Glenn Drive",
+        "city": "Sterling",
+        "zip": "20164",
+        "address": "22318 Glenn Dr, Sterling, VA 20164",
+        "geocoded_address": "22318, Glenn Drive, Sterling, Loudoun County, Virginia, 20164, United States"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.4281006,
+          38.997783
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Amazon AWS IAD - 45950 Pathfinder",
+        "company": "Amazon AWS",
+        "street": "45950 Pathfinder Plz",
+        "city": "Sterling",
+        "zip": "20165",
+        "address": "45950 Pathfinder Plz, Sterling, VA 20165",
+        "geocoded_address": "Amazon IAD92, 45950, Pathfinder Plaza, AWS, Sterling, Loudoun County, Virginia, 20166, United States"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.4104754,
+          38.9869426
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Amazon AWS IAD - 23005 International",
+        "company": "Amazon AWS",
+        "street": "23005 International Dr",
+        "city": "Sterling",
+        "zip": "20166",
+        "address": "23005 International Dr, Sterling, VA 20166",
+        "geocoded_address": "International Drive, Sterling, Loudoun County, Virginia, 20166, United States"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.4250257,
+          38.9844147
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Amazon AWS IAD - 45360 Severn",
+        "company": "Amazon AWS",
+        "street": "45360 West Severn Way",
+        "city": "Sterling",
+        "zip": "20166",
+        "address": "45360 West Severn Way, Sterling, VA 20166",
+        "geocoded_address": "Amazon IAD10, 45360, West Severn Way, Sterling, Loudoun County, Virginia, 20166, United States"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.4327904,
+          39.0219333
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Amazon AWS IAD - 21195 Atlantic Blvd",
+        "company": "Amazon AWS",
+        "street": "21195 Atlantic Blvd",
+        "city": "Sterling",
+        "zip": "20166",
+        "address": "21195 Atlantic Blvd, Sterling, VA 20166",
+        "geocoded_address": "Atlantic Boulevard, Dulles Eastern Plaza, Dulles Town Center, Loudoun County, Virginia, 20166, United States"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.427186,
+          39.0174946
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Amazon AWS IAD - 45305 Severn",
+        "company": "Amazon AWS",
+        "street": "45305 West Severn Way",
+        "city": "Sterling",
+        "zip": "20166",
+        "address": "45305 West Severn Way, Sterling, VA 20166",
+        "geocoded_address": "Amazon IAD99, 45305, West Severn Way, Dulles Town Center, Loudoun County, Virginia, 29166, United States"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.4340299,
+          39.0191689
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Vantage VA23",
+        "company": "Vantage Data Centers",
+        "street": "22318 Glenn Drive",
+        "city": "Sterling",
+        "zip": "20164",
+        "address": "22318 Glenn Dr, Sterling, VA 20164",
+        "geocoded_address": "22318, Glenn Drive, Sterling, Loudoun County, Virginia, 20164, United States"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.4281006,
+          38.997783
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Amazon AWS IAD - 45900 Pathfinder",
+        "company": "Amazon AWS",
+        "street": "45900 Pathfinder Plz",
+        "city": "Sterling",
+        "zip": "20165",
+        "address": "45900 Pathfinder Plz, Sterling, VA 20165",
+        "geocoded_address": "Amazon IAD90, 45900, Pathfinder Plaza, AWS, Sterling, Loudoun County, Virginia, 20166, United States"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.4116519,
+          38.9886028
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Amazon AWS IAD - 22520 Randolph",
+        "company": "Amazon AWS",
+        "street": "22520 Randolph Drive",
+        "city": "Sterling",
+        "zip": "20166",
+        "address": "22520 Randolph Dr, Sterling, VA 20166",
+        "geocoded_address": "Amazon IAD-76, 22520, Randolph Drive, Sterling, Loudoun County, Virginia, 20103, United States"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.4505093,
+          38.9937865
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "PowerHouse Pacific - Building B",
+        "company": "PowerHouse Data Centers",
+        "street": "22020 Broderick Dr",
+        "city": "Sterling",
+        "zip": "20166",
+        "address": "22020 Broderick Dr, Sterling, VA 20166",
+        "geocoded_address": "22020, Broderick Drive, Loudoun County, Virginia, 20166, United States"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.4474863,
+          39.0069633
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "PowerHouse Pacific - Building A",
+        "company": "PowerHouse Data Centers",
+        "street": "22020 Broderick Dr",
+        "city": "Sterling",
+        "zip": "20166",
+        "address": "22020 Broderick Dr, Sterling, VA 20166",
+        "geocoded_address": "22020, Broderick Drive, Loudoun County, Virginia, 20166, United States"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.4474863,
+          39.0069633
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "PowerHouse Pacific - Building C",
+        "company": "PowerHouse Data Centers",
+        "street": "22020 Broderick Dr",
+        "city": "Sterling",
+        "zip": "20166",
+        "address": "22020 Broderick Dr, Sterling, VA 20166",
+        "geocoded_address": "22020, Broderick Drive, Loudoun County, Virginia, 20166, United States"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.4474863,
+          39.0069633
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "PowerHouse Pacific Campus",
+        "company": "PowerHouse Data Centers",
+        "street": "22020 Broderick Dr",
+        "city": "Sterling",
+        "zip": "20166",
+        "address": "22020 Broderick Dr, Sterling, VA 20166",
+        "geocoded_address": "22020, Broderick Drive, Loudoun County, Virginia, 20166, United States"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.4474863,
+          39.0069633
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Prologis Global Plaza Campus",
+        "company": "Prologis",
+        "street": "42121-45120 Global Plaza",
+        "city": "Sterling",
+        "zip": "20166",
+        "address": "42121-45120 Global Plz, Sterling, VA 20166",
+        "geocoded_address": "Global Plaza, Loudoun County, Virginia, 20166, United States"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.4388225,
+          38.9865191
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Amazon AWS - 21670-21680 Ridgetop Circle",
+        "company": "Amazon AWS",
+        "street": "21670-21680 Ridgetop Cir",
+        "city": "Sterling",
+        "zip": "20166",
+        "address": "21670-21680 Ridgetop Cir, Sterling, VA 20166",
+        "geocoded_address": "21670, Ridgetop Circle, Sterling, Loudoun County, Virginia, 20166, United States"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.4102854,
+          39.0243838
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Amazon AWS - 21660 Ridgetop Circle",
+        "company": "Amazon AWS",
+        "street": "21660 Ridgetop Cir",
+        "city": "Sterling",
+        "zip": "20166",
+        "address": "21660 Ridgetop Cir, Sterling, VA 20166",
+        "geocoded_address": "21660, Ridgetop Circle, Sterling, Loudoun County, Virginia, 20166, United States"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.4096246,
+          39.0254106
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "STACK Infrastructure NVA04 Campus",
+        "company": "STACK INFRASTRUCTURE",
+        "street": "Shellhorn Road",
+        "city": "Sterling",
+        "zip": "20166",
+        "address": "Shellhorn Rd, Sterling, VA 20166",
+        "geocoded_address": "Shellhorn Road, Loudoun County, Virginia, 20174, United States"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.4702299,
+          38.9970048
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Prologis 42121 Global Plaza",
+        "company": "Prologis",
+        "street": "42121 Global Plaza",
+        "city": "Sterling",
+        "zip": "20166",
+        "address": "42121 Global Plz, Sterling, VA 20166",
+        "geocoded_address": "Global Plaza, Loudoun County, Virginia, 20166, United States"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.4388225,
+          38.9865191
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Prologis 45181 Global Plaza",
+        "company": "Prologis",
+        "street": "45181 Global Plaza",
+        "city": "Sterling",
+        "zip": "20166",
+        "address": "45181 Global Plz, Sterling, VA 20166",
+        "geocoded_address": "45181, Global Plaza, Loudoun County, Virginia, 20166, United States"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.438783,
+          38.986448
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "STACK Infrastructure NVA04A",
+        "company": "STACK INFRASTRUCTURE",
+        "street": "22275 Lockridge Rd",
+        "city": "Sterling",
+        "zip": "20166",
+        "address": "22275 Lockridge Rd, Sterling, VA 20166",
+        "geocoded_address": "22275, Lockridge Road, Loudoun County, Virginia, 20166, United States"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.4588892,
+          38.9996425
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "STACK Infrastructure NVA04C",
+        "company": "STACK INFRASTRUCTURE",
+        "street": "22295 Lockridge Rd",
+        "city": "Sterling",
+        "zip": "20166",
+        "address": "22295 Lockridge Rd, Sterling, VA 20166",
+        "geocoded_address": "22295, Lockridge Road, Loudoun County, Virginia, 20166, United States"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.4587313,
+          38.9990024
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "QTS Ashburn-Lockridge DC2",
+        "company": "QTS Data Centers",
+        "street": "44655 Quality Tech Lane",
+        "city": "Sterling",
+        "zip": "20166",
+        "address": "44655 Quality Tech Ln, Sterling, VA 20166",
+        "geocoded_address": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": []
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "STACK Infrastructure NVA04B",
+        "company": "STACK INFRASTRUCTURE",
+        "street": "22285 Lockridge Rd",
+        "city": "Sterling",
+        "zip": "20166",
+        "address": "22285 Lockridge Rd, Sterling, VA 20166",
+        "geocoded_address": "22285, Lockridge Road, Loudoun County, Virginia, 20166, United States"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.4588103,
+          38.9993224
+        ]
+      }
+    }
+  ]
+}

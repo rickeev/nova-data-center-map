@@ -1,0 +1,657 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8" />
+    <title>Northern Virginia Data Centers Map</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="Interactive map of data centers in Northern Virginia">
+    
+    <!-- Leaflet CSS -->
+    <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" 
+          integrity="sha256-p4NxAoJBhIIN+hmNHrzRCf9tD/miZyoHS5obTRR9BMY=" crossorigin=""/>
+    
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&display=swap" rel="stylesheet">
+    
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+
+    <link rel="stylesheet" href="styles.css">
+</head>
+
+<body>
+    <header class="header" role="banner">
+        <div class="header-content">
+            <div class="logo">
+                <i class="fas fa-server" role="img" aria-label="Server icon"></i>
+                <div>
+                    <h1>NoVA Data Centers</h1>
+                    <div class="subtitle">Northern Virginia Infrastructure Map</div>
+                </div>
+            </div>
+            <div class="header-stats" role="region" aria-label="Statistics">
+                <div class="stat-item">
+                    <span class="stat-number" id="data-center-count">-</span>
+                    <span class="stat-label">Data Centers</span>
+                </div>
+                <div class="stat-item">
+                    <span class="stat-number" id="company-count">-</span>
+                    <span class="stat-label">Companies</span>
+                </div>
+                <div class="stat-item">
+                    <span class="stat-number" id="visible-count">-</span>
+                    <span class="stat-label">Visible</span>
+                </div>
+            </div>
+        </div>
+    </header>
+
+    <main role="main">
+        <div class="main-container">
+            <!-- Map Section -->
+            <div class="map-section">
+                <div class="map-container">
+                    <div id="loading" class="loading-overlay">
+                        <div class="spinner" role="status" aria-label="Loading map data"></div>
+                    </div>
+                    <div id="map" role="application" aria-label="Interactive map of data centers"></div>
+                </div>
+            </div>
+
+            <!-- Sidebar -->
+            <div class="sidebar">
+                <!-- Search Section -->
+                <div class="search-section">
+                    <h2 class="search-title">
+                        <i class="fas fa-search"></i>
+                        Search Companies
+                    </h2>
+                    <div class="search-container">
+                        <i class="fas fa-search search-icon"></i>
+                        <input 
+                            type="text" 
+                            id="company-search" 
+                            class="search-input" 
+                            placeholder="Search company names..."
+                            autocomplete="off"
+                        >
+                        <button id="clear-search" class="clear-search" title="Clear search">
+                            <i class="fas fa-times"></i>
+                        </button>
+                    </div>
+                </div>
+
+                <!-- Companies List -->
+                <div class="companies-section">
+                    <div class="companies-header">
+                        <h2 class="companies-title">
+                            <i class="fas fa-building"></i>
+                            Companies
+                            <span class="company-count" id="filtered-company-count">0</span>
+                        </h2>
+                        <button id="clear-filter" class="clear-filter">
+                            <i class="fas fa-times"></i>
+                            Clear Filter
+                        </button>
+                    </div>
+                    <div class="companies-list" id="companies-list">
+                        <!-- Companies will be populated here -->
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="disclaimer">
+            Data Accuracy Disclaimer: Because the map relies on OpenStreetMap data via the Nominatim Geocoding API, 
+            some coordinates may be imprecise or outdated. Data from OpenStreetMap is community-contributed 
+            and may vary in quality or completeness.
+        </div>
+
+        <section class="methodology-section">
+            <div class="methodology-content">
+                <h2 class="methodology-title">
+                    <i class="fas fa-cogs"></i>
+                    Methodology
+                </h2>
+                <div class="methodology-text">
+                    <p>
+                        This interactive map showcases data centers across Northern Virginia which is home
+                        to one of the world's largest concentrations of digital infrastructure. 
+                        The dataset was created by manually collecting publicly available address data from
+                        datacentermap.com, a widely used directory of data centers.
+                    </p>
+                    <p>
+                        To convert raw address data into geographic coordinates, 
+                        I wrote a Python script that uses the Nominatim Geocoding API, which sources its data from OpenStreetMap. 
+                        The resulting coordinates were formatted into a GeoJSON file and visualized using 
+                        Leaflet.js in a custom web map application built with JavaScript, HTML, and CSS.
+                    </p>
+                    <p>
+                        Each marker on the map represents a data center facility. 
+                        These include locations operated by major cloud providers, colocation companies, and enterprise-level data centers, 
+                        with a particular focus on Loudoun County, VA.
+                    </p>
+                </div>
+            </div>
+        </section>
+
+        <section class="methodology-section">
+            <div class="methodology-content">
+                <h2 class="methodology-title">
+                <i class="fas fa-tools"></i>
+                Tools & Technologies Used
+                </h2>
+                <ul>
+                    <li><strong>Frontend:</strong> JavaScript, HTML, CSS, Leaflet.js</li>
+                    <li><strong>Scripting:</strong> Python (for geocoding)</li>
+                    <li><strong>Geocoding Service:</strong> Nominatim Geocoding API</li>
+                    <li><strong>Data Sources:</strong> datacentermap.com, OpenStreetMap</li>
+                </ul>
+            </div>
+        </section>
+
+        <section class="methodology-section">
+            <div class="methodology-content">
+                <h2 class="methodology-title">
+                <i class="fas fa-lightbulb"></i>
+                Future Improvements
+                </h2>
+                <ul>
+                    <li>Perform QA/QC to verify the accuracy of each facility's location</li>
+                    <li>Cross-reference locations with satellite imagery or parcel data</li>
+                    <li>Correct inaccuracies directly in OpenStreetMap</li>
+                    <li>Apply geographic filtering to restrict data to Loudoun County</li>
+                    <li>Enhance metadata for each data center (e.g., provider, capacity)</li>
+                </ul>
+            </div>
+        </section>
+    </main>
+
+    <!-- Leaflet JavaScript -->
+    <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js" 
+            integrity="sha256-20nQCchB9co0qIjJZRGuk2/Z9VM+kNiyxNV1lvTlZBo=" crossorigin=""></script>
+
+    <script>
+        // Global variables
+        let map;
+        let dataLayer;
+        let allFeatures = [];
+        let filteredFeatures = [];
+        let allCompanies = [];
+        let filteredCompanies = [];
+        let activeCompany = null;
+        let companyCounts = {};
+
+        // Initialize the application
+        function initializeApp() {
+            setupMap();
+            setupLegend();
+            setupEventListeners();
+            loadDataCenters();
+        }
+
+        // Setup the map with enhanced styling
+        function setupMap() {
+            map = L.map('map', {
+                center: [39.0438, -77.4874], // Ashburn, VA coordinates
+                zoom: 11,
+                zoomControl: false,
+                attributionControl: true
+            });
+
+            // Add zoom control in top-left
+            L.control.zoom({
+                position: 'topleft'
+            }).addTo(map);
+
+            // Enhanced tile layer
+            const tileLayer = L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
+                attribution: '© <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors',
+                maxZoom: 18,
+                tileSize: 256,
+                zoomOffset: 0
+            });
+
+            tileLayer.addTo(map);
+
+            // Add scale control
+            L.control.scale({
+                position: 'bottomleft',
+                imperial: true,
+                metric: true
+            }).addTo(map);
+        }
+
+        // Setup enhanced legend
+        function setupLegend() {
+            const legend = L.control({position: 'bottomright'});
+            
+            legend.onAdd = function (map) {
+                const div = L.DomUtil.create('div', 'legend');
+                div.innerHTML = `
+                    <div class="legend-header">
+                        <h3 class="legend-title">
+                            <i class="fas fa-map-marker-alt"></i>
+                            Map Legend
+                        </h3>
+                    </div>
+                    <div class="legend-content">
+                        <div class="legend-item">
+                            <div class="legend-symbol"></div>
+                            <span>Data Center</span>
+                            <span class="legend-count" id="legend-count">0</span>
+                        </div>
+                    </div>
+                `;
+                
+                // Prevent map interactions when interacting with legend
+                L.DomEvent.disableClickPropagation(div);
+                L.DomEvent.disableScrollPropagation(div);
+                
+                return div;
+            };
+            
+            legend.addTo(map);
+        }
+
+        // Setup event listeners
+        function setupEventListeners() {
+            const searchInput = document.getElementById('company-search');
+            const clearSearchBtn = document.getElementById('clear-search');
+            const clearFilterBtn = document.getElementById('clear-filter');
+
+            // Search functionality
+            searchInput.addEventListener('input', handleSearch);
+            clearSearchBtn.addEventListener('click', clearSearch);
+            clearFilterBtn.addEventListener('click', clearCompanyFilter);
+
+            // Show/hide clear search button
+            searchInput.addEventListener('input', function() {
+                const clearBtn = document.getElementById('clear-search');
+                if (this.value.trim()) {
+                    clearBtn.classList.add('visible');
+                } else {
+                    clearBtn.classList.remove('visible');
+                }
+            });
+        }
+
+        // Handle search input
+        function handleSearch() {
+            const searchTerm = document.getElementById('company-search').value.toLowerCase().trim();
+            
+            if (searchTerm === '') {
+                filteredCompanies = [...allCompanies];
+            } else {
+                filteredCompanies = allCompanies.filter(company => 
+                    company.toLowerCase().includes(searchTerm)
+                );
+            }
+            
+            renderCompaniesList();
+        }
+
+        // Clear search
+        function clearSearch() {
+            document.getElementById('company-search').value = '';
+            document.getElementById('clear-search').classList.remove('visible');
+            filteredCompanies = [...allCompanies];
+            renderCompaniesList();
+        }
+
+        // Clear company filter
+        function clearCompanyFilter() {
+            activeCompany = null;
+            document.getElementById('clear-filter').classList.remove('visible');
+            
+            // Show all markers
+            if (dataLayer) {
+                dataLayer.clearLayers();
+                allFeatures.forEach(feature => {
+                    const marker = createMarkerFromFeature(feature);
+                    dataLayer.addLayer(marker);
+                });
+            }
+            
+            // Update company list styling
+            document.querySelectorAll('.company-item').forEach(item => {
+                item.classList.remove('active');
+            });
+            
+            updateStats();
+        }
+
+        // Handle company selection
+        function selectCompany(companyName) {
+            activeCompany = companyName;
+            document.getElementById('clear-filter').classList.add('visible');
+            
+            // Filter and display only markers for selected company
+            if (dataLayer) {
+                dataLayer.clearLayers();
+                
+                const companyFeatures = allFeatures.filter(feature => 
+                    feature.properties.company === companyName
+                );
+                
+                companyFeatures.forEach(feature => {
+                    const marker = createMarkerFromFeature(feature);
+                    dataLayer.addLayer(marker);
+                });
+                
+                // Fit map to filtered bounds if we have features
+                if (companyFeatures.length > 0) {
+                    const group = L.featureGroup(dataLayer.getLayers());
+                    map.fitBounds(group.getBounds(), {
+                        padding: [20, 20],
+                        maxZoom: 14
+                    });
+                }
+            }
+            
+            // Update company list styling
+            document.querySelectorAll('.company-item').forEach(item => {
+                if (item.dataset.company === companyName) {
+                    item.classList.add('active');
+                } else {
+                    item.classList.remove('active');
+                }
+            });
+            
+            updateStats();
+        }
+
+        // Render companies list
+        function renderCompaniesList() {
+            const listContainer = document.getElementById('companies-list');
+            const countElement = document.getElementById('filtered-company-count');
+            
+            countElement.textContent = filteredCompanies.length;
+            
+            listContainer.innerHTML = '';
+            
+            filteredCompanies.forEach(company => {
+                const count = companyCounts[company] || 0;
+                const item = document.createElement('div');
+                item.className = 'company-item';
+                item.dataset.company = company;
+                
+                if (activeCompany === company) {
+                    item.classList.add('active');
+                }
+                
+                item.innerHTML = `
+                    <span class="company-name">${company}</span>
+                    <span class="company-marker-count">${count}</span>
+                `;
+                
+                item.addEventListener('click', () => selectCompany(company));
+                listContainer.appendChild(item);
+            });
+        }
+
+        // Create enhanced popup content
+        function createPopupContent(feature) {
+            const props = feature.properties;
+            const coords = feature.geometry.coordinates;
+            const lat = parseFloat(coords[1]);
+            const lng = parseFloat(coords[0]);
+
+            return `
+                <div class="popup-header">
+                    <h3 class="popup-title">
+                        <i class="fas fa-building"></i>
+                        ${props.name || 'Unnamed Data Center'}
+                    </h3>
+                </div>
+                <div class="popup-body">
+                    ${props.company ? `
+                        <div class="popup-field">
+                            <span class="popup-label">Company:</span>
+                            <span class="popup-value">${props.company}</span>
+                        </div>
+                    ` : ''}
+                    ${props.address ? `
+                        <div class="popup-field">
+                            <span class="popup-label">Address:</span>
+                            <span class="popup-value">${props.address}</span>
+                        </div>
+                    ` : ''}
+                    <div class="popup-field">
+                        <span class="popup-label">Location:</span>
+                        <span class="popup-value">${lat.toFixed(6)}, ${lng.toFixed(6)}</span>
+                    </div>
+                </div>
+            `;
+        }
+
+        // Enhanced marker styling
+        function createMarker(lat, lng, feature) {
+            return L.circleMarker([lat, lng], {
+                radius: 6,
+                fillColor: "#f59e0b",
+                color: "#ffffff",
+                weight: 2,
+                opacity: 1,
+                fillOpacity: 0.9,
+                className: 'data-center-marker'
+            });
+        }
+
+        // Create marker from feature
+        function createMarkerFromFeature(feature) {
+            const coords = feature.geometry.coordinates;
+            const lng = parseFloat(coords[0]);
+            const lat = parseFloat(coords[1]);
+            
+            const marker = createMarker(lat, lng, feature);
+            const popupContent = createPopupContent(feature);
+            
+            marker.bindPopup(popupContent, {
+                maxWidth: 300,
+                className: 'custom-popup'
+            });
+            
+            // Add hover effects
+            marker.on('mouseover', function(e) {
+                this.setStyle({
+                    radius: 8,
+                    fillOpacity: 1
+                });
+            });
+            
+            marker.on('mouseout', function(e) {
+                this.setStyle({
+                    radius: 6,
+                    fillOpacity: 0.9
+                });
+            });
+            
+            return marker;
+        }
+
+        // Show status message
+        function showStatusMessage(message, type = 'success', duration = 5000) {
+            const existingMessage = document.querySelector('.status-message');
+            if (existingMessage) {
+                existingMessage.remove();
+            }
+
+            const messageEl = document.createElement('div');
+            messageEl.className = `status-message status-${type}`;
+            
+            const icon = type === 'success' ? 'check-circle' : 
+                        type === 'error' ? 'exclamation-circle' : 'exclamation-triangle';
+            
+            messageEl.innerHTML = `
+                <i class="fas fa-${icon}"></i>
+                <span>${message}</span>
+            `;
+            
+            document.body.appendChild(messageEl);
+            
+            if (duration > 0) {
+                setTimeout(() => {
+                    if (messageEl.parentNode) {
+                        messageEl.remove();
+                    }
+                }, duration);
+            }
+        }
+
+        // Update statistics
+        function updateStats() {
+            const totalDataCenters = allFeatures.length;
+            const totalCompanies = allCompanies.length;
+            
+            let visibleCount = totalDataCenters;
+            if (activeCompany) {
+                visibleCount = allFeatures.filter(feature => 
+                    feature.properties.company === activeCompany
+                ).length;
+            }
+            
+            document.getElementById('data-center-count').textContent = totalDataCenters;
+            document.getElementById('company-count').textContent = totalCompanies;
+            document.getElementById('visible-count').textContent = visibleCount;
+            document.getElementById('legend-count').textContent = visibleCount;
+        }
+
+        // Load and process GeoJSON data
+        function loadDataCenters() {
+            const loadingEl = document.getElementById('loading');
+            
+            fetch('nova_data_centers_improved.geojson')
+                .then(response => {
+                    if (!response.ok) {
+                        throw new Error(`Failed to load data: ${response.status} ${response.statusText}`);
+                    }
+                    return response.json();
+                })
+                .then(data => {
+                    processGeoJSONData(data);
+                })
+                .catch(error => {
+                    console.error('Error loading GeoJSON:', error);
+                    loadingEl.style.display = 'none';
+                    
+                    showStatusMessage(`Failed to load data centers: ${error.message}`, 'error', 0);
+                    
+                    // Show error in stats
+                    document.getElementById('data-center-count').textContent = 'Error';
+                    document.getElementById('company-count').textContent = 'Error';
+                    document.getElementById('visible-count').textContent = 'Error';
+                });
+        }
+
+        // Process GeoJSON data
+        function processGeoJSONData(data) {
+            const loadingEl = document.getElementById('loading');
+            
+            try {
+                console.log('GeoJSON data loaded:', data);
+                console.log('Total features:', data.features.length);
+                
+                // Reset data
+                allFeatures = [];
+                allCompanies = [];
+                companyCounts = {};
+                
+                // Create layer group for better performance
+                dataLayer = L.layerGroup();
+                
+                let invalidCoordinateCount = 0;
+                
+                // Process each feature
+                data.features.forEach((feature, index) => {
+                    try {
+                        // Validate feature structure
+                        if (!feature.geometry || !feature.geometry.coordinates) {
+                            console.warn(`Feature ${index} missing geometry or coordinates:`, feature);
+                            return;
+                        }
+                        
+                        const coords = feature.geometry.coordinates;
+                        const lng = parseFloat(coords[0]);
+                        const lat = parseFloat(coords[1]);
+                        
+                        // Validate coordinates
+                        if (isNaN(lng) || isNaN(lat)) {
+                            console.error(`Invalid coordinates for ${feature.properties.name}: [${coords[0]}, ${coords[1]}]`);
+                            return;
+                        }
+                        
+                        // Check bounds - filter for Northern Virginia region only
+                        // Rough bounds for Northern Virginia: lat 38.5-39.5, lng -78.0 to -77.0
+                        if (lat < 38.5 || lat > 39.5 || lng < -78.0 || lng > -77.0) {
+                            console.warn(`Coordinates outside Northern Virginia region for ${feature.properties.name}: [${lng}, ${lat}]`);
+                            invalidCoordinateCount++;
+                            return;
+                        }
+                        
+                        // Store feature
+                        allFeatures.push(feature);
+                        
+                        // Track companies
+                        if (feature.properties.company) {
+                            const company = feature.properties.company;
+                            if (!allCompanies.includes(company)) {
+                                allCompanies.push(company);
+                            }
+                            companyCounts[company] = (companyCounts[company] || 0) + 1;
+                        }
+                        
+                        const marker = createMarkerFromFeature(feature);
+                        dataLayer.addLayer(marker);
+                        
+                    } catch (error) {
+                        console.error(`Error processing feature ${index}:`, error, feature);
+                    }
+                });
+                
+                // Sort companies alphabedtically
+                allCompanies.sort();
+                filteredCompanies = [...allCompanies];
+                
+                // Add all markers to map
+                dataLayer.addTo(map);
+                
+                updateStats();
+                renderCompaniesList();
+                loadingEl.style.display = 'none';
+                
+                console.log(`Successfully loaded ${allFeatures.length} data centers in Northern Virginia`);
+                if (invalidCoordinateCount > 0) {
+                    console.log(`Filtered out ${invalidCoordinateCount} data centers with coordinates outside Northern Virginia`);
+                }
+                
+                let message = `Successfully loaded ${allFeatures.length} data centers`;
+                if (invalidCoordinateCount > 0) {
+                    message += ` (${invalidCoordinateCount} filtered out due to invalid coordinates)`;
+                    showStatusMessage(message, 'warning');
+                } else {
+                    showStatusMessage(message, 'success');
+                }
+                
+            } catch (error) {
+                console.error('Error processing GeoJSON:', error);
+                loadingEl.style.display = 'none';
+                
+                showStatusMessage(`Failed to load data centers: ${error.message}`, 'error', 0);
+                
+                document.getElementById('data-center-count').textContent = 'Error';
+                document.getElementById('company-count').textContent = 'Error';
+                document.getElementById('visible-count').textContent = 'Error';
+            }
+        }
+
+        document.addEventListener('DOMContentLoaded', initializeApp);
+
+        // Handle window resize
+        window.addEventListener('resize', () => {
+            if (map) {
+                setTimeout(() => {
+                    map.invalidateSize();
+                }, 100);
+            }
+        });
+    </script>
+</body>
+</html>
