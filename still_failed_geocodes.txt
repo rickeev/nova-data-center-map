@@ -1,17 +1,2 @@
-NTT Ashburn Campus | Megawatt Dr / Gigabit Plz, Ashburn, VA 20147
 Dulles 28 Technology Park | Pacific Blvd / Wapool Rd, Ashburn, VA 20166
-Amazon AWS IAD - Import Campus | 44351-44254 Import Plz, Ashburn, VA 20147
-Amazon IAD - 44305 Import | 44305 Import Plz, Ashburn, VA 20147
-Amazon IAD - 44254 Import | 44254 Import Plz, Ashburn, VA 20147
-Amazon IAD - 44351 Import | 44351 Import Plz, Ashburn, VA 20147
-CyrusOne Broadlands - Building 3 | Education Ct / Broadlands Blvd, Broadlands, VA 20148
-CyrusOne Broadlands - Building 4 | Education Ct / Broadlands Blvd, Broadlands, VA 20148
-CyrusOne Broadlands Campus | Education Ct / Broadlands Blvd, Broadlands, VA 20148
-CyrusOne Broadlands - Building 1 | Education Ct / Broadlands Blvd, Broadlands, VA 20148
-CyrusOne Broadlands - Building 2 | Education Ct / Broadlands Blvd, Broadlands, VA 20148
 Corscale Kincora | Russel Branch Pkwy, Sterling, VA 20166
-Maries Tech Park | 45761-45781 Maries Rd, Maries Tech Park, Sterling, VA 20166
-Amazon AWS IAD - Severn & Squire Campus | Squire Ct / West Severn Way, Sterling, VA 45259
-COPT MP-2 | 45771 Maries Rd, Maries Tech Park, Sterling, VA 20166
-COPT MP-3 | 45781 Maries Rd, Maries Tech Park, Sterling, VA 20166
-COPT MP-1 | 45761 Maries Rd, Maries Tech Park, Sterling, VA 20166

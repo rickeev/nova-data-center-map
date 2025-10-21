@@ -1,28 +1,17 @@
 44490 Chillum (ACC2) | 44490 Chillum Pl, Ashburn, VA 20147
 Equinix DC13 | 21830 Uunet Way, Ashburn, VA 20147
-Microsoft - 41720 Inclusion Ln | 41720 Inclusion Ln, Leesburg, VA 20175
-NTT Ashburn Campus | Megawatt Dr / Gigabit Plz, Ashburn, VA 20147
 Dulles 28 Technology Park | Pacific Blvd / Wapool Rd, Ashburn, VA 20166
-Microsoft - 41730 Inclusion Ln | 41730 Inclusion Ln, Leesburg, VA 20175
 Amazon AWS IAD - Loudoun County Campus | 20935-20934 Lodoun County Pkwy, Ashburn, VA 20147
 Amazon AWS IAD - Import Campus | 44351-44254 Import Plz, Ashburn, VA 20147
 Amazon IAD - 44305 Import | 44305 Import Plz, Ashburn, VA 20147
 Amazon IAD - 44254 Import | 44254 Import Plz, Ashburn, VA 20147
 Amazon IAD - 44351 Import | 44351 Import Plz, Ashburn, VA 20147
-Microsoft - 41700 Inclusion Ln (IAD4) | 41700 Inclusion Ln, Leesburg, VA 20175
-Microsoft - 41700 Inclusion Ln (IAD6) | 41700 Inclusion Ln, Leesburg, VA 20175
-CyrusOne Broadlands - Building 3 | Education Ct / Broadlands Blvd, Broadlands, VA 20148
-CyrusOne Broadlands - Building 4 | Education Ct / Broadlands Blvd, Broadlands, VA 20148
-CyrusOne Broadlands Campus | Education Ct / Broadlands Blvd, Broadlands, VA 20148
-CyrusOne Broadlands - Building 1 | Education Ct / Broadlands Blvd, Broadlands, VA 20148
-CyrusOne Broadlands - Building 2 | Education Ct / Broadlands Blvd, Broadlands, VA 20148
+SDC Ashburn B | 21745 Red Rum, Ashburn, VA 20147
 Corscale Kincora | Russel Branch Pkwy, Sterling, VA 20166
 Maries Tech Park | 45761-45781 Maries Rd, Maries Tech Park, Sterling, VA 20166
 Amazon AWS IAD - Erins Run Campus | 23825-23845 Erins Run Dr, Sterling, VA 20166
 Google Arcola Campus | 24400 Howling Rooster Ln, Sterling, VA 20166
 23540 Pebble Run Pl | 23540 Pebble Run Pl, Sterling, VA 20166
-QTS Ashburn-Lockridge DC1 | 44675 Quality Tech Ln, Sterling, VA 20166
-Amazon AWS IAD - Severn & Squire Campus | Squire Ct / West Severn Way, Sterling, VA 45259
 COPT MP-2 | 45771 Maries Rd, Maries Tech Park, Sterling, VA 20166
 Amazon AWS IAD - 23835 Erins | 23835 Erins Run Dr, Sterling, VA 20166
 Amazon AWS IAD - 23845 Erins | 23845 Erins Run Dr, Sterling, VA 20166
@@ -31,4 +20,3 @@ COPT MP-3 | 45781 Maries Rd, Maries Tech Park, Sterling, VA 20166
 Google Arcola Data Center 1 | 24400 Howling Rooster Ln, Sterling, VA 20166
 Google Arcola Data Center 2 | 24400 Howling Rooster Ln, Sterling, VA 20166
 COPT MP-1 | 45761 Maries Rd, Maries Tech Park, Sterling, VA 20166
-QTS Ashburn-Lockridge DC2 | 44655 Quality Tech Ln, Sterling, VA 20166

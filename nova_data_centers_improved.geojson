@@ -29,13 +29,13 @@
         "city": "Ashburn",
         "zip": "20147",
         "address": "21561-21571 Beaumeade Cir, Ashburn, VA 20147",
-        "geocoded_address": "21561, Beaumeade Circle, Ashburn, Loudoun County, Virginia, 20147, United States"
+        "geocoded_address": "Centersquare IAD4-A, 21561, Beaumeade Circle, Ashburn, Loudoun County, Virginia, 20147, United States"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -77.453663,
-          39.0221022
+          -77.4525891,
+          39.021851
         ]
       }
     },
@@ -298,7 +298,7 @@
         "type": "Point",
         "coordinates": [
           -77.4654004,
-          39.0126817
+          39.0126818
         ]
       }
     },
@@ -425,13 +425,13 @@
         "city": "Ashburn",
         "zip": "20147",
         "address": "22124 Broderick Dr (Bldg R), Ashburn, VA 20147",
-        "geocoded_address": "22124, Broderick Drive, Loudoun County, Virginia, 20166, United States"
+        "geocoded_address": "Digital Realty IAD42, 22124, Broderick Drive, Sterling, Loudoun County, Virginia, 20166, United States"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -77.4493581,
-          39.0042103
+          -77.4495236,
+          39.0056772
         ]
       }
     },
@@ -482,7 +482,7 @@
         "city": "Ashburn",
         "zip": "20147",
         "address": "44751 Round Table Plz (Bldg P), Ashburn, VA 20147",
-        "geocoded_address": "Digital Realty Building P, 44751, Round Table Plaza, Ashburn, Loudoun County, Virginia, 20147, United States"
+        "geocoded_address": "Digital Realty IAD41 (Building P), 44751, Round Table Plaza, Ashburn, Loudoun County, Virginia, 20147, United States"
       },
       "geometry": {
         "type": "Point",
@@ -520,13 +520,13 @@
         "city": "Ashburn",
         "zip": "20147",
         "address": "21583 Megawatt Dr, Ashburn, VA 20147",
-        "geocoded_address": "NTT Ashburn VA5 Data Center, 21583, Megawatt Drive, NTT Ashburn Campus, Ashburn, Loudoun County, Virginia, 20147, United States"
+        "geocoded_address": "NTT Ashburn VA4 Data Center, 21583, Megawatt Drive, NTT Ashburn Campus, Ashburn, Loudoun County, Virginia, 20147, United States"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -77.4726125,
-          39.0182982
+          -77.4725591,
+          39.0199845
         ]
       }
     },
@@ -539,13 +539,13 @@
         "city": "Ashburn",
         "zip": "20147",
         "address": "21583 Megawatt Dr, Ashburn, VA 20147",
-        "geocoded_address": "NTT Ashburn VA5 Data Center, 21583, Megawatt Drive, NTT Ashburn Campus, Ashburn, Loudoun County, Virginia, 20147, United States"
+        "geocoded_address": "NTT Ashburn VA4 Data Center, 21583, Megawatt Drive, NTT Ashburn Campus, Ashburn, Loudoun County, Virginia, 20147, United States"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -77.4726125,
-          39.0182982
+          -77.4725591,
+          39.0199845
         ]
       }
     },
@@ -577,13 +577,13 @@
         "city": "Ashburn",
         "zip": "20147",
         "address": "21583 Megawatt Dr, Ashburn, VA 20147",
-        "geocoded_address": "NTT Ashburn VA5 Data Center, 21583, Megawatt Drive, NTT Ashburn Campus, Ashburn, Loudoun County, Virginia, 20147, United States"
+        "geocoded_address": "NTT Ashburn VA4 Data Center, 21583, Megawatt Drive, NTT Ashburn Campus, Ashburn, Loudoun County, Virginia, 20147, United States"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -77.4726125,
-          39.0182982
+          -77.4725591,
+          39.0199845
         ]
       }
     },
@@ -678,7 +678,7 @@
         "type": "Point",
         "coordinates": [
           -77.454718,
-          39.0115447
+          39.0115448
         ]
       }
     },
@@ -824,13 +824,13 @@
         "city": "Ashburn",
         "zip": "20147",
         "address": "21571 Beaumeade Cir, Ashburn, VA 20147",
-        "geocoded_address": "21571, Beaumeade Circle, Ashburn, Loudoun County, Virginia, 20147, United States"
+        "geocoded_address": "Centersquare IAD4-B, 21571, Beaumeade Circle, Ashburn, Loudoun County, Virginia, 20147, United States"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -77.4525891,
-          39.021851
+          -77.453663,
+          39.0221022
         ]
       }
     },
@@ -924,8 +924,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -77.4983692,
-          39.020406
+          -77.4960337,
+          39.0183472
         ]
       }
     },
@@ -938,13 +938,13 @@
         "city": "Ashburn",
         "zip": "20147",
         "address": "21561 Beaumeade Cir, Ashburn, VA 20147",
-        "geocoded_address": "21561, Beaumeade Circle, Ashburn, Loudoun County, Virginia, 20147, United States"
+        "geocoded_address": "Centersquare IAD4-A, 21561, Beaumeade Circle, Ashburn, Loudoun County, Virginia, 20147, United States"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -77.453663,
-          39.0221022
+          -77.4525891,
+          39.021851
         ]
       }
     },
@@ -1057,8 +1057,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -77.4983692,
-          39.020406
+          -77.4960337,
+          39.0183472
         ]
       }
     },
@@ -1109,13 +1109,13 @@
         "city": "Leesburg",
         "zip": "20175",
         "address": "19515-19540 Compass Creek Pkwy, Leesburg, VA 20175",
-        "geocoded_address": "Compass Creek Parkway Southeast, Oaklawn, Leesburg, Loudoun County, Virginia, 20175, United States"
+        "geocoded_address": "Microsoft, 19515, Compass Creek Parkway, Compass Creek, Leesburg, Loudoun County, Virginia, 20175, United States"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -77.5638483,
-          39.0831138
+          -77.564129,
+          39.0747869
         ]
       }
     },
@@ -1204,11 +1204,14 @@
         "city": "Leesburg",
         "zip": "20175",
         "address": "41720 Inclusion Ln, Leesburg, VA 20175",
-        "geocoded_address": ""
+        "geocoded_address": "41720, Inclusion Lane SE, Sycolin, Leesburg, Loudoun County, Virginia, 20175, United States"
       },
       "geometry": {
         "type": "Point",
-        "coordinates": []
+        "coordinates": [
+          -77.5594362,
+          39.0697183
+        ]
       }
     },
     {
@@ -1220,11 +1223,14 @@
         "city": "Ashburn",
         "zip": "20147",
         "address": "Megawatt Dr / Gigabit Plz, Ashburn, VA 20147",
-        "geocoded_address": ""
+        "geocoded_address": "Intersection of Megawatt Dr and Gigabit Plz, Ashburn, VA 20147"
       },
       "geometry": {
         "type": "Point",
-        "coordinates": []
+        "coordinates": [
+          -77.47082040000001,
+          39.0182005
+        ]
       }
     },
     {
@@ -1352,8 +1358,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -77.5638483,
-          39.0831138
+          -77.5638407,
+          39.086522
         ]
       }
     },
@@ -1423,11 +1429,14 @@
         "city": "Leesburg",
         "zip": "20175",
         "address": "41730 Inclusion Ln, Leesburg, VA 20175",
-        "geocoded_address": ""
+        "geocoded_address": "41730, Inclusion Lane SE, Sycolin, Leesburg, Loudoun County, Virginia, 20175, United States"
       },
       "geometry": {
         "type": "Point",
-        "coordinates": []
+        "coordinates": [
+          -77.5607738,
+          39.0697043
+        ]
       }
     },
     {
@@ -1496,11 +1505,14 @@
         "city": "Ashburn",
         "zip": "20147",
         "address": "20935-20934 Lodoun County Pkwy, Ashburn, VA 20147",
-        "geocoded_address": ""
+        "geocoded_address": "20935, Gloucester Parkway, Ashburn, Loudoun County, Virginia, 20147, United States"
       },
       "geometry": {
         "type": "Point",
-        "coordinates": []
+        "coordinates": [
+          -77.4506543,
+          39.0278619
+        ]
       }
     },
     {
@@ -1512,11 +1524,14 @@
         "city": "Ashburn",
         "zip": "20147",
         "address": "44351-44254 Import Plz, Ashburn, VA 20147",
-        "geocoded_address": ""
+        "geocoded_address": "Riverside Commons Plaza, Riverside Square, Ashburn, Loudoun County, Virginia, 20147, United States"
       },
       "geometry": {
         "type": "Point",
-        "coordinates": []
+        "coordinates": [
+          -77.462885,
+          39.0634689
+        ]
       }
     },
     {
@@ -1642,13 +1657,13 @@
         "city": "Ashburn",
         "zip": "20147",
         "address": "19509 Belmont Ridge Rd, Ashburn, VA 20147",
-        "geocoded_address": "19509, Belmont Ridge Road, Belmont Greene, Belmont, Loudoun County, Virginia, 20147, United States"
+        "geocoded_address": "Belmont Ridge Road, Belmont Greene, Belmont, Loudoun County, Virginia, 20147, United States"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -77.5070494,
-          39.0701301
+          -77.5080053,
+          39.0677075
         ]
       }
     },
@@ -1666,8 +1681,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -77.434409,
-          38.9797061
+          -77.4358136,
+          38.9901838
         ]
       }
     },
@@ -1718,11 +1733,14 @@
         "city": "Ashburn",
         "zip": "20147",
         "address": "44305 Import Plz, Ashburn, VA 20147",
-        "geocoded_address": ""
+        "geocoded_address": "Riverside Commons Plaza, Riverside Square, Ashburn, Loudoun County, Virginia, 20147, United States"
       },
       "geometry": {
         "type": "Point",
-        "coordinates": []
+        "coordinates": [
+          -77.462885,
+          39.0634689
+        ]
       }
     },
     {
@@ -1753,13 +1771,13 @@
         "city": "Leesburg",
         "zip": "20175",
         "address": "19525 Compass Creek Pkwy, Leesburg, VA 20175",
-        "geocoded_address": "Compass Creek Parkway Southeast, Oaklawn, Leesburg, Loudoun County, Virginia, 20175, United States"
+        "geocoded_address": "Microsoft, 19525, Compass Creek Parkway, Compass Creek, Leesburg, Loudoun County, Virginia, 20175, United States"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -77.5638483,
-          39.0831138
+          -77.5630354,
+          39.0755079
         ]
       }
     },
@@ -1772,11 +1790,14 @@
         "city": "Ashburn",
         "zip": "20147",
         "address": "44254 Import Plz, Ashburn, VA 20147",
-        "geocoded_address": ""
+        "geocoded_address": "44254, Ice Rink Plaza, Ashburn, Loudoun County, Virginia, 20147, United States"
       },
       "geometry": {
         "type": "Point",
-        "coordinates": []
+        "coordinates": [
+          -77.4697014,
+          39.0198722
+        ]
       }
     },
     {
@@ -1788,13 +1809,13 @@
         "city": "Ashburn",
         "zip": "20147",
         "address": "44371 Gigabit Plz, Ashburn, VA 20147",
-        "geocoded_address": "Gigabit Plaza, NTT Ashburn Campus, Ashburn, Loudoun County, Virginia, 20174, United States"
+        "geocoded_address": "44371, Gigabit Plaza, NTT Ashburn Campus, Ashburn, Loudoun County, Virginia, 20147, United States"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -77.4701507,
-          39.0183367
+          -77.471954,
+          39.0160142
         ]
       }
     },
@@ -1883,13 +1904,13 @@
         "city": "Leesburg",
         "zip": "20175",
         "address": "19515 Compass Creek Pkwy, Leesburg, VA 20175",
-        "geocoded_address": "Compass Creek Parkway Southeast, Oaklawn, Leesburg, Loudoun County, Virginia, 20175, United States"
+        "geocoded_address": "Microsoft, 19515, Compass Creek Parkway, Compass Creek, Leesburg, Loudoun County, Virginia, 20175, United States"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -77.5638483,
-          39.0831138
+          -77.564129,
+          39.0747869
         ]
       }
     },
@@ -1940,11 +1961,14 @@
         "city": "Ashburn",
         "zip": "20147",
         "address": "44351 Import Plz, Ashburn, VA 20147",
-        "geocoded_address": ""
+        "geocoded_address": "Riverside Commons Plaza, Riverside Square, Ashburn, Loudoun County, Virginia, 20147, United States"
       },
       "geometry": {
         "type": "Point",
-        "coordinates": []
+        "coordinates": [
+          -77.462885,
+          39.0634689
+        ]
       }
     },
     {
@@ -1961,8 +1985,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -77.4983692,
-          39.020406
+          -77.4960337,
+          39.0183472
         ]
       }
     },
@@ -1994,11 +2018,14 @@
         "city": "Leesburg",
         "zip": "20175",
         "address": "41700 Inclusion Ln, Leesburg, VA 20175",
-        "geocoded_address": ""
+        "geocoded_address": "Inclusion Lane SE, Sycolin, Loudoun County, Virginia, 20175, United States"
       },
       "geometry": {
         "type": "Point",
-        "coordinates": []
+        "coordinates": [
+          -77.5597991,
+          39.0670198
+        ]
       }
     },
     {
@@ -2162,11 +2189,14 @@
         "city": "Leesburg",
         "zip": "20175",
         "address": "41700 Inclusion Ln, Leesburg, VA 20175",
-        "geocoded_address": ""
+        "geocoded_address": "Inclusion Lane SE, Sycolin, Loudoun County, Virginia, 20175, United States"
       },
       "geometry": {
         "type": "Point",
-        "coordinates": []
+        "coordinates": [
+          -77.5597991,
+          39.0670198
+        ]
       }
     },
     {
@@ -2197,13 +2227,13 @@
         "city": "Ashburn",
         "zip": "20147",
         "address": "21745 Red Rum, Ashburn, VA 20147",
-        "geocoded_address": "21745, Red Rum Drive, Loudoun County, Virginia, 20147, United States"
+        "geocoded_address": "21745, Ashburn Road, Ryan, Ashburn, Loudoun County, Virginia, 20147, United States"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -77.4809364,
-          39.016815
+          -77.4930561,
+          39.0223574
         ]
       }
     },
@@ -2216,7 +2246,7 @@
         "city": "Ashburn",
         "zip": "20147",
         "address": "21267 Smith Switch Rd, Ashburn, VA 20147",
-        "geocoded_address": "Amazon IAD-60, 21267, Smith Switch Road, Ashburn, Loudoun County, Virginia, 20147, United States"
+        "geocoded_address": "Amazon IAD60, 21267, Smith Switch Road, Ashburn, Loudoun County, Virginia, 20147, United States"
       },
       "geometry": {
         "type": "Point",
@@ -2406,11 +2436,14 @@
         "city": "Broadlands",
         "zip": "20148",
         "address": "Education Ct / Broadlands Blvd, Broadlands, VA 20148",
-        "geocoded_address": ""
+        "geocoded_address": "Intersection of Education Ct and Broadlands Blvd, Broadlands, VA 20148"
       },
       "geometry": {
         "type": "Point",
-        "coordinates": []
+        "coordinates": [
+          -77.5140142,
+          39.02877355
+        ]
       }
     },
     {
@@ -2422,11 +2455,14 @@
         "city": "Broadlands",
         "zip": "20148",
         "address": "Education Ct / Broadlands Blvd, Broadlands, VA 20148",
-        "geocoded_address": ""
+        "geocoded_address": "Intersection of Education Ct and Broadlands Blvd, Broadlands, VA 20148"
       },
       "geometry": {
         "type": "Point",
-        "coordinates": []
+        "coordinates": [
+          -77.5140142,
+          39.02877355
+        ]
       }
     },
     {
@@ -2438,11 +2474,14 @@
         "city": "Broadlands",
         "zip": "20148",
         "address": "Education Ct / Broadlands Blvd, Broadlands, VA 20148",
-        "geocoded_address": ""
+        "geocoded_address": "Intersection of Education Ct and Broadlands Blvd, Broadlands, VA 20148"
       },
       "geometry": {
         "type": "Point",
-        "coordinates": []
+        "coordinates": [
+          -77.5140142,
+          39.02877355
+        ]
       }
     },
     {
@@ -2473,11 +2512,14 @@
         "city": "Broadlands",
         "zip": "20148",
         "address": "Education Ct / Broadlands Blvd, Broadlands, VA 20148",
-        "geocoded_address": ""
+        "geocoded_address": "Intersection of Education Ct and Broadlands Blvd, Broadlands, VA 20148"
       },
       "geometry": {
         "type": "Point",
-        "coordinates": []
+        "coordinates": [
+          -77.5140142,
+          39.02877355
+        ]
       }
     },
     {
@@ -2527,11 +2569,14 @@
         "city": "Broadlands",
         "zip": "20148",
         "address": "Education Ct / Broadlands Blvd, Broadlands, VA 20148",
-        "geocoded_address": ""
+        "geocoded_address": "Intersection of Education Ct and Broadlands Blvd, Broadlands, VA 20148"
       },
       "geometry": {
         "type": "Point",
-        "coordinates": []
+        "coordinates": [
+          -77.5140142,
+          39.02877355
+        ]
       }
     },
     {
@@ -2567,8 +2612,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -77.4917183,
-          38.9613131
+          -77.4916754,
+          38.9613027
         ]
       }
     },
@@ -2600,13 +2645,13 @@
         "city": "Sterling",
         "zip": "20166",
         "address": "22574 Pacific Blvd, Sterling, VA 20166",
-        "geocoded_address": "Pacific Boulevard, Sterling, Loudoun County, Virginia, 20166, United States"
+        "geocoded_address": "Amazon IAD192, 22574, Pacific Boulevard, Sterling, Loudoun County, Virginia, 20166, United States"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -77.434409,
-          38.9797061
+          -77.4348018,
+          38.9895507
         ]
       }
     },
@@ -2619,13 +2664,13 @@
         "city": "Sterling",
         "zip": "20166",
         "address": "43290 Old Ox Rd, Sterling, VA 20166",
-        "geocoded_address": "Old Ox Road, Oak Grove, Loudoun County, Virginia, 20166, United States"
+        "geocoded_address": "Old Ox Road, Sterling, Loudoun County, Virginia, 20166, United States"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -77.4196134,
-          38.9782043
+          -77.4391426,
+          38.9791241
         ]
       }
     },
@@ -2657,13 +2702,13 @@
         "city": "Sterling",
         "zip": "20166",
         "address": "21350 Pacific Blvd., Sterling, VA 20166",
-        "geocoded_address": "CyrusOne NVA5, 21350, Pacific Boulevard, Sterling, Loudoun County, Virginia, 20166, United States"
+        "geocoded_address": "CyrusOne NVA7, 21350, Pacific Boulevard, Sterling, Loudoun County, Virginia, 20166, United States"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -77.4341,
-          39.0241204
+          -77.4340415,
+          39.0262997
         ]
       }
     },
@@ -2695,13 +2740,13 @@
         "city": "Sterling",
         "zip": "20166",
         "address": "21350 Pacific Blvd., Sterling, VA 20166",
-        "geocoded_address": "CyrusOne NVA5, 21350, Pacific Boulevard, Sterling, Loudoun County, Virginia, 20166, United States"
+        "geocoded_address": "CyrusOne NVA7, 21350, Pacific Boulevard, Sterling, Loudoun County, Virginia, 20166, United States"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -77.4341,
-          39.0241204
+          -77.4340415,
+          39.0262997
         ]
       }
     },
@@ -2752,13 +2797,13 @@
         "city": "Sterling",
         "zip": "20166",
         "address": "21110 Ridgetop Cir, Sterling, VA 20166",
-        "geocoded_address": "Cyxtera Sterling IAD1-C, 21110, Ridgetop Circle, Sterling, Loudoun County, Virginia, 20166, United States"
+        "geocoded_address": "Centersquare IAD1-C, 21110, Ridgetop Circle, Sterling, Loudoun County, Virginia, 20166, United States"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
           -77.4122044,
-          39.0247522
+          39.0247523
         ]
       }
     },
@@ -2771,7 +2816,7 @@
         "city": "Sterling",
         "zip": "20166",
         "address": "22810 International Dr, Sterling, VA 20166",
-        "geocoded_address": "Cyxtera IAD2-A, 22810, International Drive, Sterling, Loudoun County, Virginia, 20166, United States"
+        "geocoded_address": "Centersquare IAD2-A, 22810, International Drive, Sterling, Loudoun County, Virginia, 20166, United States"
       },
       "geometry": {
         "type": "Point",
@@ -2790,13 +2835,13 @@
         "city": "Sterling",
         "zip": "20166",
         "address": "45901 Nokes Blvd., Sterling, VA 20166",
-        "geocoded_address": "Cyxtera Sterling IAD1-A, 45901, Nokes Boulevard, Sterling, Loudoun County, Virginia, 20166, United States"
+        "geocoded_address": "Centersquare IAD1-A, 45901, Nokes Boulevard, Sterling, Loudoun County, Virginia, 20166, United States"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
           -77.4132159,
-          39.0232985
+          39.0232986
         ]
       }
     },
@@ -2809,13 +2854,13 @@
         "city": "Sterling",
         "zip": "20166",
         "address": "22995 Wilder Ct, Sterling, VA 20166",
-        "geocoded_address": "22995, Wilder Court, Loudoun County, Virginia, 20166, United States"
+        "geocoded_address": "Centersquare IAD3, 22995, Wilder Court, Loudoun County, Virginia, 20166, United States"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -77.4438245,
-          38.9796783
+          -77.444793,
+          38.9809622
         ]
       }
     },
@@ -2885,7 +2930,7 @@
         "city": "Sterling",
         "zip": "20166",
         "address": "22860 International Dr, Sterling, VA 20166",
-        "geocoded_address": "Cyxtera IAD2-B, 22860, International Drive, Sterling, Loudoun County, Virginia, 20166, United States"
+        "geocoded_address": "Centersquare IAD2-B, 22860, International Drive, Sterling, Loudoun County, Virginia, 20166, United States"
       },
       "geometry": {
         "type": "Point",
@@ -2923,13 +2968,13 @@
         "city": "Sterling",
         "zip": "20166",
         "address": "45845 Nokes Blvd, Sterling, VA 20166",
-        "geocoded_address": "Cyxtera Sterling IAD1-B, 45845, Nokes Boulevard, Sterling, Loudoun County, Virginia, 20166, United States"
+        "geocoded_address": "Centersquare IAD1-B, 45845, Nokes Boulevard, Sterling, Loudoun County, Virginia, 20166, United States"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
           -77.4148382,
-          39.0238682
+          39.0238683
         ]
       }
     },
@@ -2983,7 +3028,7 @@
         "type": "Point",
         "coordinates": [
           -77.4376872,
-          39.0023685
+          39.0023686
         ]
       }
     },
@@ -3015,11 +3060,14 @@
         "city": "Sterling",
         "zip": "20166",
         "address": "45761-45781 Maries Rd, Maries Tech Park, Sterling, VA 20166",
-        "geocoded_address": ""
+        "geocoded_address": "Amazon Web Services IAD116, 45761, Maries Road, Sterling, Loudoun County, Virginia, 20166, United States"
       },
       "geometry": {
         "type": "Point",
-        "coordinates": []
+        "coordinates": [
+          -77.4204393,
+          39.024346
+        ]
       }
     },
     {
@@ -3088,11 +3136,14 @@
         "city": "Sterling",
         "zip": "20166",
         "address": "23825-23845 Erins Run Dr, Sterling, VA 20166",
-        "geocoded_address": ""
+        "geocoded_address": "International Drive, Sterling, Loudoun County, Virginia, 20166, United States"
       },
       "geometry": {
         "type": "Point",
-        "coordinates": []
+        "coordinates": [
+          -77.4250257,
+          38.9844147
+        ]
       }
     },
     {
@@ -3123,13 +3174,13 @@
         "city": "Sterling",
         "zip": "20166",
         "address": "21195-21215 Atlantic Blvd, Sterling, VA 20166",
-        "geocoded_address": "Atlantic Boulevard, Dulles Eastern Plaza, Dulles Town Center, Loudoun County, Virginia, 20166, United States"
+        "geocoded_address": "Atlantic Boulevard, Sterling, Loudoun County, Virginia, 20166, United States"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -77.427186,
-          39.0174946
+          -77.4289083,
+          39.0117685
         ]
       }
     },
@@ -3218,11 +3269,14 @@
         "city": "Sterling",
         "zip": "20166",
         "address": "24400 Howling Rooster Ln, Sterling, VA 20166",
-        "geocoded_address": ""
+        "geocoded_address": "Oak Branch Lane, Sterling, Loudoun County, Virginia, 20166, United States"
       },
       "geometry": {
         "type": "Point",
-        "coordinates": []
+        "coordinates": [
+          -77.4144635,
+          39.0085313
+        ]
       }
     },
     {
@@ -3316,7 +3370,7 @@
         "type": "Point",
         "coordinates": [
           -77.4376872,
-          39.0023685
+          39.0023686
         ]
       }
     },
@@ -3335,7 +3389,7 @@
         "type": "Point",
         "coordinates": [
           -77.4376872,
-          39.0023685
+          39.0023686
         ]
       }
     },
@@ -3348,7 +3402,7 @@
         "city": "Sterling",
         "zip": "20166",
         "address": "22630 Dulles Summit Ct, Sterling, VA 20166",
-        "geocoded_address": "Amazon IAD-12, 22630, Dulles Summit Court, Sterling, Loudoun County, Virginia, 20166, United States"
+        "geocoded_address": "Amazon IAD12, 22630, Dulles Summit Court, Sterling, Loudoun County, Virginia, 20166, United States"
       },
       "geometry": {
         "type": "Point",
@@ -3367,13 +3421,13 @@
         "city": "Sterling",
         "zip": "20166",
         "address": "22760 Pacific Blvd, Sterling, VA 20166",
-        "geocoded_address": "Pacific Boulevard, Sterling, Loudoun County, Virginia, 20166, United States"
+        "geocoded_address": "Amazon IAD214, 22760, Pacific Boulevard, Sterling, Loudoun County, Virginia, 20166, United States"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -77.434409,
-          38.9797061
+          -77.4351775,
+          38.9865228
         ]
       }
     },
@@ -3405,13 +3459,13 @@
         "city": "Sterling",
         "zip": "20166",
         "address": "21215 Atlantic Blvd, Sterling, VA 20166",
-        "geocoded_address": "Atlantic Boulevard, Dulles Eastern Plaza, Dulles Town Center, Loudoun County, Virginia, 20166, United States"
+        "geocoded_address": "Atlantic Boulevard, Sterling, Loudoun County, Virginia, 20166, United States"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -77.427186,
-          39.0174946
+          -77.4289083,
+          39.0117685
         ]
       }
     },
@@ -3465,7 +3519,7 @@
         "type": "Point",
         "coordinates": [
           -77.4376872,
-          39.0023685
+          39.0023686
         ]
       }
     },
@@ -3535,7 +3589,7 @@
         "city": "Sterling",
         "zip": "20166",
         "address": "22630-22651 Dulles Summit Ct, Sterling, VA 20166",
-        "geocoded_address": "Amazon IAD-12, 22630, Dulles Summit Court, Sterling, Loudoun County, Virginia, 20166, United States"
+        "geocoded_address": "Amazon IAD12, 22630, Dulles Summit Court, Sterling, Loudoun County, Virginia, 20166, United States"
       },
       "geometry": {
         "type": "Point",
@@ -3573,11 +3627,14 @@
         "city": "Sterling",
         "zip": "20166",
         "address": "44675 Quality Tech Ln, Sterling, VA 20166",
-        "geocoded_address": ""
+        "geocoded_address": "Quality Tech Lane, Loudoun County, Virginia, 20101, United States"
       },
       "geometry": {
         "type": "Point",
-        "coordinates": []
+        "coordinates": [
+          -77.457571,
+          38.9963596
+        ]
       }
     },
     {
@@ -3608,11 +3665,14 @@
         "city": "Sterling",
         "zip": "45259",
         "address": "Squire Ct / West Severn Way, Sterling, VA 45259",
-        "geocoded_address": ""
+        "geocoded_address": "Intersection of Squire Ct and West Severn Way, Sterling, VA 45259"
       },
       "geometry": {
         "type": "Point",
-        "coordinates": []
+        "coordinates": [
+          -77.43436775,
+          39.02120175
+        ]
       }
     },
     {
@@ -3681,11 +3741,14 @@
         "city": "Sterling",
         "zip": "20166",
         "address": "45771 Maries Rd, Maries Tech Park, Sterling, VA 20166",
-        "geocoded_address": ""
+        "geocoded_address": "45771, Woodland Road, Sterling, Loudoun County, Virginia, 20166, United States"
       },
       "geometry": {
         "type": "Point",
-        "coordinates": []
+        "coordinates": [
+          -77.4181464,
+          39.018861
+        ]
       }
     },
     {
@@ -3754,11 +3817,14 @@
         "city": "Sterling",
         "zip": "20166",
         "address": "23835 Erins Run Dr, Sterling, VA 20166",
-        "geocoded_address": ""
+        "geocoded_address": "International Drive, Sterling, Loudoun County, Virginia, 20166, United States"
       },
       "geometry": {
         "type": "Point",
-        "coordinates": []
+        "coordinates": [
+          -77.4250257,
+          38.9844147
+        ]
       }
     },
     {
@@ -3770,11 +3836,14 @@
         "city": "Sterling",
         "zip": "20166",
         "address": "23845 Erins Run Dr, Sterling, VA 20166",
-        "geocoded_address": ""
+        "geocoded_address": "International Drive, Sterling, Loudoun County, Virginia, 20166, United States"
       },
       "geometry": {
         "type": "Point",
-        "coordinates": []
+        "coordinates": [
+          -77.4250257,
+          38.9844147
+        ]
       }
     },
     {
@@ -3786,11 +3855,14 @@
         "city": "Sterling",
         "zip": "20166",
         "address": "23825 Erins Run Dr, Sterling, VA 20166",
-        "geocoded_address": ""
+        "geocoded_address": "International Drive, Sterling, Loudoun County, Virginia, 20166, United States"
       },
       "geometry": {
         "type": "Point",
-        "coordinates": []
+        "coordinates": [
+          -77.4250257,
+          38.9844147
+        ]
       }
     },
     {
@@ -3821,13 +3893,13 @@
         "city": "Sterling",
         "zip": "20166",
         "address": "21205 Atlantic Blvd, Sterling, VA 20166",
-        "geocoded_address": "Atlantic Boulevard, Dulles Eastern Plaza, Dulles Town Center, Loudoun County, Virginia, 20166, United States"
+        "geocoded_address": "Atlantic Boulevard, Sterling, Loudoun County, Virginia, 20166, United States"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -77.427186,
-          39.0174946
+          -77.4289083,
+          39.0117685
         ]
       }
     },
@@ -3840,11 +3912,14 @@
         "city": "Sterling",
         "zip": "20166",
         "address": "45781 Maries Rd, Maries Tech Park, Sterling, VA 20166",
-        "geocoded_address": ""
+        "geocoded_address": "Amazon Web Services IAD117, 45781, Maries Road, Sterling, Loudoun County, Virginia, 20166, United States"
       },
       "geometry": {
         "type": "Point",
-        "coordinates": []
+        "coordinates": [
+          -77.4190946,
+          39.0237018
+        ]
       }
     },
     {
@@ -3875,7 +3950,7 @@
         "city": "Sterling",
         "zip": "20166",
         "address": "22631 Dulles Summit Ct, Sterling, VA 20166",
-        "geocoded_address": "Amazon IAD-15, 22631, Dulles Summit Court, Sterling, Loudoun County, Virginia, 20166, United States"
+        "geocoded_address": "Amazon IAD15, 22631, Dulles Summit Court, Sterling, Loudoun County, Virginia, 20166, United States"
       },
       "geometry": {
         "type": "Point",
@@ -3913,7 +3988,7 @@
         "city": "Sterling",
         "zip": "20166",
         "address": "22651 Dulles Summit Ct, Sterling, VA 20166",
-        "geocoded_address": "Amazon IAD-16, 22651, Dulles Summit Court, Sterling, Loudoun County, Virginia, 20166, United States"
+        "geocoded_address": "Amazon IAD16, 22651, Dulles Summit Court, Sterling, Loudoun County, Virginia, 20166, United States"
       },
       "geometry": {
         "type": "Point",
@@ -3951,13 +4026,13 @@
         "city": "Sterling",
         "zip": "20166",
         "address": "45194 Vantage Data Plz, Sterling, VA 20166",
-        "geocoded_address": "45194, Vantage Data Plaza, Vantage Ashburn Campus, Loudoun County, Virginia, 20166, United States"
+        "geocoded_address": "Vantage VA12, 45194, Vantage Data Plaza, Vantage Ashburn Campus, Sterling, Loudoun County, Virginia, 20166, United States"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
           -77.4380171,
-          39.0017865
+          39.0017866
         ]
       }
     },
@@ -3976,7 +4051,7 @@
         "type": "Point",
         "coordinates": [
           -77.4376872,
-          39.0023685
+          39.0023686
         ]
       }
     },
@@ -4116,11 +4191,14 @@
         "city": "Sterling",
         "zip": "20166",
         "address": "45761 Maries Rd, Maries Tech Park, Sterling, VA 20166",
-        "geocoded_address": ""
+        "geocoded_address": "Amazon Web Services IAD116, 45761, Maries Road, Sterling, Loudoun County, Virginia, 20166, United States"
       },
       "geometry": {
         "type": "Point",
-        "coordinates": []
+        "coordinates": [
+          -77.4204393,
+          39.024346
+        ]
       }
     },
     {
@@ -4208,13 +4286,13 @@
         "city": "Sterling",
         "zip": "20166",
         "address": "21195 Atlantic Blvd, Sterling, VA 20166",
-        "geocoded_address": "Atlantic Boulevard, Dulles Eastern Plaza, Dulles Town Center, Loudoun County, Virginia, 20166, United States"
+        "geocoded_address": "Atlantic Boulevard, Sterling, Loudoun County, Virginia, 20166, United States"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -77.427186,
-          39.0174946
+          -77.4289083,
+          39.0117685
         ]
       }
     },
@@ -4284,7 +4362,7 @@
         "city": "Sterling",
         "zip": "20166",
         "address": "22520 Randolph Dr, Sterling, VA 20166",
-        "geocoded_address": "Amazon IAD-76, 22520, Randolph Drive, Sterling, Loudoun County, Virginia, 20103, United States"
+        "geocoded_address": "Amazon IAD76, 22520, Randolph Drive, Sterling, Loudoun County, Virginia, 20103, United States"
       },
       "geometry": {
         "type": "Point",
@@ -4441,8 +4519,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -77.4702299,
-          38.9970048
+          -77.4738407,
+          38.9999044
         ]
       }
     },
@@ -4531,11 +4609,14 @@
         "city": "Sterling",
         "zip": "20166",
         "address": "44655 Quality Tech Ln, Sterling, VA 20166",
-        "geocoded_address": ""
+        "geocoded_address": "Quality Tech Lane, Loudoun County, Virginia, 20101, United States"
       },
       "geometry": {
         "type": "Point",
-        "coordinates": []
+        "coordinates": [
+          -77.457571,
+          38.9963596
+        ]
       }
     },
     {
