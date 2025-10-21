@@ -98,70 +98,6 @@
                 </div>
             </div>
         </div>
-        <div class="disclaimer">
-            Data Accuracy Disclaimer: Because the map relies on OpenStreetMap data via the Nominatim Geocoding API, 
-            some coordinates may be imprecise or outdated. Data from OpenStreetMap is community-contributed 
-            and may vary in quality or completeness.
-        </div>
-
-        <section class="methodology-section">
-            <div class="methodology-content">
-                <h2 class="methodology-title">
-                    <i class="fas fa-cogs"></i>
-                    Methodology
-                </h2>
-                <div class="methodology-text">
-                    <p>
-                        This interactive map showcases data centers across Northern Virginia which is home
-                        to one of the world's largest concentrations of digital infrastructure. 
-                        The dataset was created by manually collecting publicly available address data from
-                        datacentermap.com, a widely used directory of data centers.
-                    </p>
-                    <p>
-                        To convert raw address data into geographic coordinates, 
-                        I wrote a Python script that uses the Nominatim Geocoding API, which sources its data from OpenStreetMap. 
-                        The resulting coordinates were formatted into a GeoJSON file and visualized using 
-                        Leaflet.js in a custom web map application built with JavaScript, HTML, and CSS.
-                    </p>
-                    <p>
-                        Each marker on the map represents a data center facility. 
-                        These include locations operated by major cloud providers, colocation companies, and enterprise-level data centers, 
-                        with a particular focus on Loudoun County, VA.
-                    </p>
-                </div>
-            </div>
-        </section>
-
-        <section class="methodology-section">
-            <div class="methodology-content">
-                <h2 class="methodology-title">
-                <i class="fas fa-tools"></i>
-                Tools & Technologies Used
-                </h2>
-                <ul>
-                    <li><strong>Frontend:</strong> JavaScript, HTML, CSS, Leaflet.js</li>
-                    <li><strong>Scripting:</strong> Python (for geocoding)</li>
-                    <li><strong>Geocoding Service:</strong> Nominatim Geocoding API</li>
-                    <li><strong>Data Sources:</strong> datacentermap.com, OpenStreetMap</li>
-                </ul>
-            </div>
-        </section>
-
-        <section class="methodology-section">
-            <div class="methodology-content">
-                <h2 class="methodology-title">
-                <i class="fas fa-lightbulb"></i>
-                Future Improvements
-                </h2>
-                <ul>
-                    <li>Perform QA/QC to verify the accuracy of each facility's location</li>
-                    <li>Cross-reference locations with satellite imagery or parcel data</li>
-                    <li>Correct inaccuracies directly in OpenStreetMap</li>
-                    <li>Apply geographic filtering to restrict data to Loudoun County</li>
-                    <li>Enhance metadata for each data center (e.g., provider, capacity)</li>
-                </ul>
-            </div>
-        </section>
     </main>
 
     <!-- Leaflet JavaScript -->
@@ -203,7 +139,7 @@
 
             // Enhanced tile layer
             const tileLayer = L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
-                attribution: '© <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors',
+                attribution: 'Â© <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors',
                 maxZoom: 18,
                 tileSize: 256,
                 zoomOffset: 0
@@ -606,7 +542,7 @@
                     }
                 });
                 
-                // Sort companies alphabedtically
+                // Sort companies alphabetically
                 allCompanies.sort();
                 filteredCompanies = [...allCompanies];
                 

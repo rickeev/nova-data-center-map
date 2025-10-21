@@ -38,7 +38,44 @@ You'll see empty coordinates for about 15-20 facilities. There's a `failed_geoco
 
 ## Running It Locally
 
-The map runs entirely in your browser once loaded. To regenerate the data:
+**Important**: If you face CORS restrictions, you need to run a local web server.
+
+### Option 1: Python HTTP Server (Recommended)
+
+```bash
+# Navigate to your project directory
+cd path/to/DataCentersMap
+
+# Python 3.6+
+python -m http.server 8000
+```
+
+Then open `http://localhost:8000` in your browser.
+
+### Option 2: Node.js HTTP Server
+
+```bash
+# Navigate to your project directory
+cd path/to/DataCentersMap
+
+# Install http-server globally (one-time)
+npm install -g http-server
+
+# Run the server
+http-server
+```
+
+Then open the URL shown in the terminal (usually `http://localhost:8080`).
+
+### Option 3: VS Code Live Server
+
+1. Install the "Live Server" extension in VS Code
+2. Right-click on `index.html`
+3. Select "Open with Live Server"
+
+### Regenerating the Data
+
+To regenerate the GeoJSON file from the source addresses:
 
 ```bash
 # Requires Python 3.6+
@@ -48,7 +85,7 @@ pip install geopy
 python script.py
 ```
 
-Then just open `index.html` in a browser.
+Then refresh your browser to load the updated map.
 
 ## Fair Warning
 
